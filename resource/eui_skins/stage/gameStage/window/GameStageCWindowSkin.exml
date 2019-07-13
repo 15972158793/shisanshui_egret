@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStageCWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:PlayerInformationBase positionEnum="0" width="93" height="196" x="142" y="516" />
+    <ns1:PlayerInformationBase positionEnum="1" width="93" height="196" x="1084" y="192" />
+    <ns1:PlayerInformationBase positionEnum="2" width="93" height="196" x="425" y="58" />
+    <ns1:PlayerInformationBase positionEnum="3" width="93" height="196" x="28" y="192" />
+    <ns1:TextChatCommponents positionEnum="0" width="244" height="117" y="423" x="233" alpha="0" />
+    <ns1:RightTextChatCommponents positionEnum="1" width="244" height="117" x="840" y="111" alpha="0" />
+    <ns1:TopTextChatCommponents positionEnum="2" width="244" height="117" x="520" y="134" alpha="0" />
+    <ns1:TextChatCommponents positionEnum="3" width="244" height="117" y="108" x="123" alpha="0" />
+    <ns1:FaceChatCommponents width="100" height="100" positionEnum="0"  x="136" y="520"/>
+    <ns1:FaceChatCommponents width="100" height="100" positionEnum="1"  x="1078" y="190"/>
+    <ns1:FaceChatCommponents width="100" height="100" positionEnum="2"  x="424" y="54"/>
+    <ns1:FaceChatCommponents width="100" height="100" positionEnum="3"  y="190" x="22"/>
+</e:Skin>

@@ -1,0 +1,10 @@
+{"file":"cardTypeAssets.png","frames":{
+"cardType_image_3_png":{"x":130,"y":2,"w":85,"h":50,"offX":0,"offY":0,"sourceW":85,"sourceH":50},
+"cardType_image_4_png":{"x":308,"y":55,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50},
+"cardType_image_5_png":{"x":219,"y":55,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50},
+"cardType_image_6_png":{"x":2,"y":55,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50},
+"cardType_image_7_png":{"x":397,"y":2,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50},
+"cardType_image_8_png":{"x":308,"y":2,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50},
+"cardType_image_9_png":{"x":2,"y":2,"w":124,"h":49,"offX":0,"offY":0,"sourceW":124,"sourceH":49},
+"cardType_image_1_png":{"x":397,"y":55,"w":85,"h":49,"offX":0,"offY":0,"sourceW":85,"sourceH":49},
+"cardType_image_2_png":{"x":219,"y":2,"w":85,"h":49,"offX":0,"offY":0,"sourceW":86,"sourceH":50}}}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardTsSkin" width="52" height="38" xmlns:e="http://ns.egret.com/eui">
+	<e:Image x="-60.71" y="-10.87" touchEnabled="false" anchorOffsetX="-60.71" width="50" anchorOffsetY="-11.87" height="38" source="card_bg_png"/>
+    <e:Image id="cardValueImage" source="card_hong_4_png" x="24" y="4" touchEnabled="false" anchorOffsetX="0" width="28" anchorOffsetY="0" height="32"/>
+    <e:Image id="cardSmallColorImage" source="cardColor_hong_small_png" x="2" y="8.5" touchEnabled="false"/>
+</e:Skin>

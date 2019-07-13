@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NoticeCBoxItemRendererSkin" width="93" height="130" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:PlayerInformationHeader playerHeaderImageUrl="{data.headerImageUrl}" width="93" height="95"/>
+    <ns1:LabelBase width="150" size="28" text="{data.nickName}" textAlign="center" verticalAlign="0" horizontalCenter="0.5" height="28" y="99"/>
+    <e:Image id="operateTypeImage" source="" horizontalCenter="0.5" verticalCenter="-16"/>
+</e:Skin>

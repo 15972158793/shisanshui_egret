@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginStageAWindowSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:LoginButton systemID="11111" contentImageSource="testLoginStage_login_button_png" width="260" height="90" />
+    <ns1:LoginButton systemID="22222" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     x="300" />
+    <ns1:LoginButton systemID="33333" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     y="110" />
+    <ns1:LoginButton systemID="44444" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     x="300" y="110" />
+
+    <ns1:LoginButton systemID="55555" contentImageSource="testLoginStage_login_button_png" width="260" height="90"  x="200" y="400"/>
+    <ns1:LoginButton systemID="66666" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     x="500"  y="400"/>
+    <ns1:LoginButton systemID="77777" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     y="510"  x="200"/>
+    <ns1:LoginButton systemID="88888" contentImageSource="testLoginStage_login_button_png" width="260" height="90"
+                     x="500" y="510" />
+
+    <ns1:SCreateRoomButton width="186" height="79" contentImageSource="sButton_orange_bg_png" textLabelText="创建房间"
+                           x="554" y="228" />
+    <e:EditableText width="200" height="32" id="roomIDEditableText" x="30" y="388" border="2" borderColor="0xffffff" />
+</e:Skin>

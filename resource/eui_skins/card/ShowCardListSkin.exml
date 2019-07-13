@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShowCardListSkin" width="600" height="360" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+
+    <!--<e:Group name="cardGroup1" y="10" x="40">
+        <ns1:BottomCard width="109" height="143" rotation="350" y="2"/>
+        <ns1:BottomCard width="109" height="143" x="70" y="-13"/>
+        <ns1:BottomCard width="109" height="143" x="134" rotation="370" y="-14"/>
+    </e:Group>
+    <e:Group name="cardGroup2" y="122" x="40">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-50" y="-1"/>
+        <ns1:BottomCard width="109" height="143" x="12" y="-24" rotation="350"/>
+        <ns1:BottomCard width="109" height="143" x="77" rotation="360" y="-34"/>
+        <ns1:BottomCard width="109" height="143" x="138" rotation="370" y="-37"/>
+        <ns1:BottomCard width="109" height="143" x="198" rotation="380" y="-29"/>
+    </e:Group>
+
+    <e:Group name="cardGroup3" y="217" x="40">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-50" y="-1"/>
+        <ns1:BottomCard width="109" height="143" x="12" y="-24" rotation="350"/>
+        <ns1:BottomCard width="109" height="143" x="77" rotation="360" y="-34"/>
+        <ns1:BottomCard width="109" height="143" x="138" rotation="370" y="-37"/>
+        <ns1:BottomCard width="109" height="143" x="198" rotation="380" y="-29"/>
+    </e:Group>-->
+    <e:Group name="cardGroup0" width="600" y="0" x="0" height="159" alpha="0" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="350" y="11" x="40" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="110" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="174" rotation="370" y="-1" touchEnabled="false"/>
+        <e:Group name="scoreGroup" width="300" right="0" height="159" touchEnabled="false">
+            <e:Image name="cardTypeImage" source="" verticalCenter="-13" horizontalCenter="-30" touchEnabled="false"/>
+            <e:BitmapLabel name="scoreBitmapLabel" font="winFnt_fnt" text="" verticalCenter="-16" horizontalCenter="100" touchEnabled="false"/>
+        </e:Group>
+    </e:Group>
+    <e:Group  name="cardGroup1" y="88" x="0" height="178" width="600"  alpha="0" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-10" y="33" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="52" y="10" rotation="350" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="117" rotation="360" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="178" rotation="370" y="-3" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="238" rotation="380" y="5" touchEnabled="false"/>
+        <e:Group name="scoreGroup" width="300" right="0" height="159" y="18" touchEnabled="false">
+            <e:Image name="cardTypeImage" source="" verticalCenter="-13" touchEnabled="false" horizontalCenter="-30"/>
+            <e:BitmapLabel  name="scoreBitmapLabel" font="loseFnt_fnt" text="" verticalCenter="-16" touchEnabled="false" horizontalCenter="100"/>
+        </e:Group>
+    </e:Group>
+
+    <e:Group name="cardGroup2" y="182" x="0" width="600" height="178"  alpha="0" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-10" y="33" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="52" y="10" rotation="350" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="117" rotation="360" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="178" rotation="370" y="-3" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="238" rotation="380" y="5" touchEnabled="false"/>
+        <e:Group name="scoreGroup" width="300" right="0" height="159" y="18" touchEnabled="false">
+            <e:Image name="cardTypeImage" source="" verticalCenter="-13" touchEnabled="false" horizontalCenter="-30"/>
+            <e:BitmapLabel name="scoreBitmapLabel" font="loseFnt_fnt" text="" verticalCenter="-16" touchEnabled="false" horizontalCenter="100"/>
+        </e:Group>
+    </e:Group>
+</e:Skin>

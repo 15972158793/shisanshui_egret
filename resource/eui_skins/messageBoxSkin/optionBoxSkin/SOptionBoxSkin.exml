@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SOptionBoxSkin" width="369" height="590" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="optionBox_bg_image_png" width="100%" height="100%" scale9Grid="46,38,277,233" />
+    <!--<e:Group width="369" height="90" top="9">
+    <ns1:ShareBoxImageButton contentImageSource="optionBox_share_button_png" width="216" height="64"
+                             horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" top="93">
+    <ns1:TopGameImageButton contentImageSource="optionBox_gameTop_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" top="177">
+    <ns1:RuleBoxImageButton contentImageSource="optionBox_gameRule_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" top="261">
+    <ns1:WatchPlayerBoxImageButton contentImageSource="optionBox_watchPlayer_button_png" width="216" height="64"
+                                   horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group id="standUpGroup" width="369" height="90" top="345">
+    <ns1:StandUpGroupButton contentImageSource="optionBox_standUp_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" bottom="30">
+    <ns1:BackHomeImageButton id="backHomeButton" contentImageSource="optionBox_backHome_button_png" width="216"
+                             height="64" horizontalCenter="0" verticalCenter="0" />
+</e:Group>
+-->
+
+<e:Group width="369" height="90" top="10">
+    <ns1:SShareTopGameButton bgImageSource="optionBox_gameTop_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" top="100">
+    <ns1:SRuleBoxButton bgImageSource="optionBox_gameRule_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group width="369" height="90" top="190">
+    <ns1:SWatchPlayerBoxButton bgImageSource="optionBox_watchPlayer_button_png" width="216" height="45"
+                                   horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group id="standUpGroup" width="369" height="90" top="280">
+    <ns1:SStandUpButton id="standUpButton" bgImageSource="optionBox_standUp_button_png" width="216" height="64"
+                            horizontalCenter="0" verticalCenter="0" />
+    <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group id="backHomeButtonGroup" width="369" height="90" top="370">
+    <ns1:SBackHomeButton id="backHomeButton" bgImageSource="optionBox_backHome_button_png" width="216"
+                             height="64" horizontalCenter="0" verticalCenter="0" />
+                             <e:Image source="optionBox_border_image_png" bottom="0" horizontalCenter="0" />
+</e:Group>
+<e:Group id="disMissRoomButtonGroup" width="369" height="90" top="460">
+    <ns1:SDisMissRoomButton id="disMissRoomButton" bgImageSource="optionBox_dismissRoom_button_png" width="216"
+                             height="64" horizontalCenter="0" verticalCenter="0" />
+</e:Group>
+</e:Skin>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestMessageBoxSkin" width="673" height="491" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_small_bg_png"/>
+    <e:Group id="testButtonGroup" width="600" height="250" horizontalCenter="0.5" y="91" anchorOffsetY="0">
+        <ns1:GroupButton name="12345" width="224" height="86">
+            <e:Image source=""/>
+            <ns1:LabelBase text="1号玩家" horizontalCenter="0" verticalCenter="0"/>
+        </ns1:GroupButton>
+
+        <ns1:GroupButton name="12346" width="224" height="86" x="376">
+            <e:Image source=""/>
+            <ns1:LabelBase text="2号玩家" horizontalCenter="0" verticalCenter="0"/>
+        </ns1:GroupButton>
+
+        <ns1:GroupButton name="12347" width="224" height="86" y="148">
+            <e:Image source=""/>
+            <ns1:LabelBase text="3号玩家" horizontalCenter="0" verticalCenter="0"/>
+        </ns1:GroupButton>
+
+        <ns1:GroupButton name="12348" width="224" height="86" y="148" x="376">
+            <e:Image source=""/>
+            <ns1:LabelBase text="4号玩家" horizontalCenter="0" verticalCenter="0"/>
+        </ns1:GroupButton>
+    </e:Group>
+</e:Skin>

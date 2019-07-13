@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShareBoxSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui">
+    <e:Image id="shareImage" source="shareBox_image_png" verticalCenter="0" horizontalCenter="0"/>
+    <e:Image id="arrowImage" source="top_gameBox_arrow_png" x="1040" y="654"/>
+</e:Skin>

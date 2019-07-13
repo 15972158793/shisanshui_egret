@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerInformationBaseSkin" width="93" height="95" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group id="playerInformationGroup" width="93" y="0">  
+        <ns1:PlayerLooks width="93" y="0"/>
+    </e:Group>
+    <e:Group id="playerInformationOfflineGroup" width="81" height="81" visible="false" touchEnabled="false" x="6" y="7">
+        <e:Image source="playerInformation_offline_mask_bg_png" touchEnabled="false" horizontalCenter="0" verticalCenter="0"/>
+        <e:Image source="playerInformation_offline_mask_content_png" touchEnabled="false" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+</e:Skin>

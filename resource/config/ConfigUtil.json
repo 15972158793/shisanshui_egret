@@ -1,0 +1,36 @@
+{
+    "commanUtil": {
+        "startStageHeight": 750,
+        "startStageWidth": 1206
+    },
+    "stageBaseUtil": {
+        "layerNameList": [
+            "WINS_LAYER",
+            "UI_LAYER",
+            "MESSAGEBOX_LAYER",
+            "NOTICE_LAYER"
+        ]
+    },
+    "layerGroupUtil": {
+        "locationLayerNameList": [
+            "A_LAYER",
+            "B_LAYER",
+            "C_LAYER",
+            "D_LAYER",
+            "E_LAYER",
+            "F_LAYER",
+            "G_LAYER",
+            "H_LAYER",
+            "I_LAYER",
+            "J_LAYER"
+        ]
+    },
+    "buttonScaleAnimationTaticsUtil": {
+        "startScaleX": 1,
+        "startScaleY": 1,
+        "endScaleX": 0.8,
+        "endScaleY": 0.8,
+        "startTweenTime": 100,
+        "endTweenTime": 100
+    }
+}

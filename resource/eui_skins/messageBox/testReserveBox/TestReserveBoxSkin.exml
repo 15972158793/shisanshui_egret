@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestReserveBoxSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui">
+
+    <e:Label id="weightLabel" textColor="0xFFF000" text="" x="740" y="271"/>
+
+    <e:Group width="500" id="cardUtilGroup" height="300" y="374"/>
+    <e:Image id="clearButton" source="testLoginStage_login_button_png" x="908" y="134"/>
+</e:Skin>

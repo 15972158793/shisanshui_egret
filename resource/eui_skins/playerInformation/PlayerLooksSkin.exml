@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerLooksSkin" width="93" height="95" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:PlayerSitDownButton width="93" height="95" contentImageSource="playerInformation_looks_bg_png"/> 
+</e:Skin>

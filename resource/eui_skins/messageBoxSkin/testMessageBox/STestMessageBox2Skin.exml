@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="STestMessageBox2Skin" width="471" height="1036" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:OtherPlayerJoinRoomButton contentImageSource="sButton_orange_bg_png" width="186" height="79"
+                                   textLabelText="加入房间" />
+    <ns1:OtherPlayerSitDownButton contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="坐下"
+                                  y="100" />
+    <ns1:OtherPlayerStandUpButton contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="站起"
+                                  y="200" />
+    <ns1:SOtherPlayerReadyButton contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="准备"
+                                 y="300" />
+    <ns1:OtherPlayerFaceChatButton contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="表情聊天"
+                                 y="400" />
+    <ns1:OtherPlayerTextChatButton contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="文字聊天"
+                                 y="500" />
+</e:Skin>

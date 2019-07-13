@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SGameStageBWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*"
+        xmlns:w="http://ns.egret.com/wing">
+    <!--<e:Image source="test_4_png" />-->
+    <e:Group id="playerInformationBaseGroup" width="1206" height="750">
+    <ns1:SPlayerInformationBase positionEnumString="0" width="93" height="196" x="142" y="516" />
+    <ns1:SPlayerInformationBase positionEnumString="1" width="93" height="196" x="1084" y="192" />
+    <ns1:SPlayerInformationBase positionEnumString="2" width="93" height="196" x="425" y="58" />
+    <ns1:SPlayerInformationBase positionEnumString="3" width="93" height="196" x="28" y="192" />
+    </e:Group>
+    <e:Group width="1206" height="750" touchEnabled="false">
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnumString="0" source="ready_image_png" x="238" y="532"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnumString="1" source="ready_image_png" x="970" y="224"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnumString="2" source="ready_image_png" x="521.5" y="70"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnumString="3" source="ready_image_png" x="141.5" y="216"
+                                   visible="false" />
+    </e:Group>
+</e:Skin>

@@ -1,0 +1,1065 @@
+{
+    "frameRate": 12,
+    "isGlobal": 0,
+    "name": "hongbolang",
+    "version": "5.0",
+    "armature": [
+        {
+            "aabb": {
+                "width": 416.78366190878467,
+                "y": -169,
+                "height": 338,
+                "x": -199.66366190878466
+            },
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ],
+            "type": "MovieClip",
+            "frameRate": 12,
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "newLayer",
+                    "parent": "newLayer",
+                    "color": {}
+                },
+                {
+                    "z": 1,
+                    "displayIndex": -1,
+                    "name": "光",
+                    "parent": "光",
+                    "color": {}
+                },
+                {
+                    "z": 2,
+                    "displayIndex": -1,
+                    "name": "字",
+                    "parent": "字",
+                    "color": {}
+                },
+                {
+                    "z": 3,
+                    "displayIndex": -1,
+                    "name": "波浪01",
+                    "parent": "波浪01",
+                    "color": {}
+                },
+                {
+                    "z": 4,
+                    "displayIndex": -1,
+                    "name": "波浪02",
+                    "parent": "波浪02",
+                    "color": {}
+                },
+                {
+                    "z": 5,
+                    "displayIndex": -1,
+                    "name": "波浪04",
+                    "parent": "波浪04",
+                    "color": {}
+                },
+                {
+                    "z": 6,
+                    "displayIndex": -1,
+                    "name": "波浪03",
+                    "parent": "波浪03",
+                    "color": {}
+                },
+                {
+                    "z": 7,
+                    "displayIndex": -1,
+                    "name": "newLayer1",
+                    "parent": "newLayer1",
+                    "color": {}
+                },
+                {
+                    "z": 8,
+                    "displayIndex": -1,
+                    "name": "newLayer2",
+                    "parent": "newLayer2",
+                    "color": {}
+                },
+                {
+                    "z": 9,
+                    "displayIndex": -1,
+                    "name": "newLayer3",
+                    "parent": "newLayer3",
+                    "color": {}
+                },
+                {
+                    "z": 10,
+                    "displayIndex": -1,
+                    "name": "newLayer4",
+                    "parent": "newLayer4",
+                    "color": {}
+                }
+            ],
+            "skin": [
+                {
+                    "name": "",
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "字",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪04",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "波浪04"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "组-126",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪01",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "波浪01"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪03",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "波浪03"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪02",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "波浪02"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪03",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer3"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪01",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer1"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪04",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer4"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "光",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "光"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "波浪02",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer2"
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "ffd": [],
+                    "frame": [],
+                    "playTimes": 0,
+                    "slot": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 23
+                                }
+                            ],
+                            "name": "newLayer"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "波浪01"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 11
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "波浪02"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 9
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "波浪03"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 9
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "波浪04"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "newLayer1"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 11
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "newLayer2"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 9
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "newLayer3"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 9
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "newLayer4"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "displayIndex": -1,
+                                    "duration": 6
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 11
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "光"
+                        }
+                    ],
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -0.0094,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": 1.7652
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "y": -0.0094,
+                                        "scX": 1.1,
+                                        "scY": 1.1,
+                                        "x": 1.7652
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13,
+                                    "transform": {
+                                        "y": -0.0094,
+                                        "x": 1.7652
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -0.0094,
+                                        "x": 1.7652
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -0.0094,
+                                        "x": 1.7652
+                                    }
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": 84.2517,
+                                        "scX": 0.01,
+                                        "x": -69.6637
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13,
+                                    "transform": {
+                                        "y": 73.3426,
+                                        "x": -187.8455
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": 73.3426,
+                                        "x": -187.8455
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 73.3426,
+                                        "x": -187.8455
+                                    }
+                                }
+                            ],
+                            "name": "波浪01"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 5,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": -90,
+                                        "y": 27.1129,
+                                        "skY": -90,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": -183.4417
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 11,
+                                    "transform": {
+                                        "y": -23.2507,
+                                        "x": -232.5326
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -23.2507,
+                                        "x": -232.5326
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -23.2507,
+                                        "x": -232.5326
+                                    }
+                                }
+                            ],
+                            "name": "波浪02"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 9,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "skX": -90,
+                                        "y": -47.9366,
+                                        "skY": -90,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": -176.7495
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": -42.9202,
+                                        "x": -166.3176
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -42.9202,
+                                        "x": -166.3176
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -42.9202,
+                                        "x": -166.3176
+                                    }
+                                }
+                            ],
+                            "name": "波浪03"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 9,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "skX": -90,
+                                        "y": 48.12,
+                                        "skY": -90,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": -128.4375
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": 19.6747,
+                                        "x": -159.2199
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": 19.6747,
+                                        "x": -159.2199
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 19.6747,
+                                        "x": -159.2199
+                                    }
+                                }
+                            ],
+                            "name": "波浪04"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": 75.2568,
+                                        "scX": 0.01,
+                                        "x": 87.12
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 13,
+                                    "transform": {
+                                        "y": 75.2568,
+                                        "scX": -1,
+                                        "x": 194.12
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": 75.2568,
+                                        "scX": -1,
+                                        "x": 194.12
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 75.2568,
+                                        "scX": -1,
+                                        "x": 194.12
+                                    }
+                                }
+                            ],
+                            "name": "newLayer1"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 5,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 3,
+                                    "transform": {
+                                        "skX": 93.1794,
+                                        "y": 38.33,
+                                        "skY": 93.1794,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": 185.68
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 11,
+                                    "transform": {
+                                        "y": -21.6685,
+                                        "scX": -1,
+                                        "x": 241.676
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -21.6685,
+                                        "scX": -1,
+                                        "x": 241.676
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -21.6685,
+                                        "scX": -1,
+                                        "x": 241.676
+                                    }
+                                }
+                            ],
+                            "name": "newLayer2"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 9,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "skX": 90,
+                                        "y": -44.03,
+                                        "skY": 90,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": 187.15
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": -41.0306,
+                                        "scX": -1,
+                                        "x": 172.1485
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -41.0306,
+                                        "scX": -1,
+                                        "x": 172.1485
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -41.0306,
+                                        "scX": -1,
+                                        "x": 172.1485
+                                    }
+                                }
+                            ],
+                            "name": "newLayer3"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 9,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "skX": 90,
+                                        "y": 41.66,
+                                        "skY": 90,
+                                        "scX": 0.01,
+                                        "scY": 0.01,
+                                        "x": 151.45
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6,
+                                    "transform": {
+                                        "y": 21.658,
+                                        "scX": -1,
+                                        "x": 166.4528
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": 21.658,
+                                        "scX": -1,
+                                        "x": 166.4528
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": 21.658,
+                                        "scX": -1,
+                                        "x": 166.4528
+                                    }
+                                }
+                            ],
+                            "name": "newLayer4"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 6,
+                                    "transform": {}
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 2,
+                                    "transform": {
+                                        "skX": 180,
+                                        "y": -5.7189,
+                                        "skY": 180,
+                                        "x": 6.8221
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 11,
+                                    "transform": {
+                                        "skX": 207.6923,
+                                        "y": -5.7189,
+                                        "skY": 207.6923,
+                                        "x": 6.8221
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "duration": 4,
+                                    "transform": {
+                                        "y": -5.7189,
+                                        "x": 6.8221
+                                    }
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 0,
+                                    "transform": {
+                                        "y": -5.7189,
+                                        "x": 6.8221
+                                    }
+                                }
+                            ],
+                            "name": "光"
+                        }
+                    ],
+                    "name": "newAnimation",
+                    "duration": 23
+                }
+            ],
+            "ik": [],
+            "bone": [
+                {
+                    "name": "root",
+                    "transform": {}
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "字",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "波浪01",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "波浪02",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "波浪03",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "波浪04",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer1",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer2",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer3",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer4",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "光",
+                    "parent": "root"
+                }
+            ],
+            "name": "MovieClip"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SGameStageAWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+<!--<e:Image source="sGameStage_bg_png"/>-->
+<e:Image source="gameStage_desc_bg_png" horizontalCenter="0" verticalCenter="-51"/>
+    <e:Group width="921" height="45" horizontalCenter="0.5" y="7.62">
+        <e:Image source="gameStage_roomInfo_bg_png" />
+        <ns1:RoundLabel text="局数：1/4" textColor="0x58c5a5" size="28" x="97" y="8" />
+        <ns1:GameNameLabel text="十三水" textColor="0x58c5a5" size="28" y="7" horizontalCenter="0" />
+        <ns1:RoomIDLabel text="房间号：12345" textColor="0x58c5a5" size="28" y="8" x="626" />
+    </e:Group>
+</e:Skin>

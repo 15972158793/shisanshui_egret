@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SCardTypeButtonItemRendererSkin" width="159" height="79" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:GroupButton width="159" height="79">
+        <e:Image id="cardTypeBgImage" source="" touchEnabled="false"/>
+        <e:Image id="cardTypeImage" source="" horizontalCenter="0" verticalCenter="0" touchEnabled="false"/>
+    </ns1:GroupButton>
+</e:Skin>

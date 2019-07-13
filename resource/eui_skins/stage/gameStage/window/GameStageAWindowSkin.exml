@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStageAWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="gameStage_bg_jpg"/>
+    <e:Image source="gameStage_desc_bg_png" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AutoCardBoxItemRendererSkin" width="152" height="285" xmlns:e="http://ns.egret.com/eui">
+    <e:Image id="selectImage" source="autoCardBox_selectCardList_selected_image_png" visible="{data.selected}" y="-8" x="-8"/>
+    <e:Image source="autoCardBox_selectCardList_itemRenderer_png"  width="152" height="285"/>
+
+    <e:Group width="119" height="63"  x="16" y="22">
+        <e:Image source="{data.before}" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+    <e:Group width="119" height="63"  x="16" y="108">
+        <e:Image source="{data.center}" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+    <e:Group width="119" height="63"  x="16" y="198">
+        <e:Image source="{data.after}" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+</e:Skin>

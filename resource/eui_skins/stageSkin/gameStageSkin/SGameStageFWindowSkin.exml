@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SGameStageFWindowSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+    <ns1:SShowCardListCommponents touchEnabled="false" positionEnumString="0" width="600" height="360" scaleX="0.8" scaleY="0.8" y="458" x="438"  visible="false"/>
+    <ns1:SRightShowCardListCommponents touchEnabled="false" positionEnumString="1"   width="600" height="360" scaleX="0.6" scaleY="0.6" x="716" y="245"  visible="false"/>
+    <ns1:SShowCardListCommponents touchEnabled="false" positionEnumString="2" width="600" height="360" scaleX="0.6" scaleY="0.6" y="56" x="527"   visible="false"/>
+    <ns1:SShowCardListCommponents touchEnabled="false" positionEnumString="3" width="600" height="360" scaleX="0.6" scaleY="0.6"  x="138"  y="245"  visible="false"/>
+</e:Skin>

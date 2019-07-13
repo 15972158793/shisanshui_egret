@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStageFWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*"> 
+<ns1:ShowCardList touchEnabled="false" positionEnum="0" width="600" height="360" y="458" x="438"  scaleX="0.8" scaleY="0.8"/>
+<ns1:ShowCardList touchEnabled="false" positionEnum="1" width="600" height="360" x="716" scaleX="0.6" scaleY="0.6" y="245"/>
+<ns1:ShowCardList touchEnabled="false" positionEnum="2" width="600" height="360" y="56" x="527" scaleX="0.6" scaleY="0.6"/>
+<ns1:ShowCardList touchEnabled="false" positionEnum="3" width="600" height="360" x="138" scaleX="0.6" scaleY="0.6" y="245"/>
+</e:Skin>

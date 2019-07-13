@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoginStageAWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+	<e:Image source="gameStage_bg_jpg" />
+	<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="11111" signture="123" width="260"
+	                 height="90" x="76" y="76" />
+	<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="22222" signture="123" width="260"
+	                 height="90" x="336" y="76" />
+	<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="33333" signture="123" width="260"
+	                 height="90" x="343" y="228" />
+	<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="55555" signture="123" width="260"
+	                 height="90" x="76" y="228" />
+	<e:Group y="300" x="600">
+		<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="66666" signture="123" width="260"
+		                 height="90" x="76" y="76" />
+		<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="77777" signture="123" width="260"
+		                 height="90" x="336" y="76" />
+		<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="88888" signture="123" width="260"
+		                 height="90" x="343" y="228" />
+		<ns1:LoginButton contentImageSource="testLoginStage_login_button_png" systemID="99999" signture="123" width="260"
+		                 height="90" x="76" y="228" />
+	</e:Group>
+	<ns1:ButtonCommponents width="224" height="86" contentImageSource="" bgImageSource="" />
+	<!--<ns1:ShowCardList touchEnabled="false" positionEnum="0" width="600" height="360" y="458" x="438" scaleX="0.8"
+	                      scaleY="0.8" />
+	<ns1:ShowCardList touchEnabled="false" positionEnum="1" width="600" height="360" x="716" scaleX="0.6" scaleY="0.6"
+	                  y="245" />
+	<ns1:ShowCardList touchEnabled="false" positionEnum="2" width="600" height="360" y="56" x="480" scaleX="0.6"
+	                  scaleY="0.6" />
+	<ns1:ShowCardList touchEnabled="false" positionEnum="3" width="600" height="360" x="138" scaleX="0.6" scaleY="0.6"
+	                  y="245" />
+	-->
+</e:Skin>

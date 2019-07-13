@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ChatBoxSkin" width="763" height="460" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_b_bg_png" width="763" height="460" />
+    <e:Group width="100%" height="47">
+        <e:RadioButton id="selectChatTypeRadioButton" selected="true" value="0" y="6" x="17" width="366" height="65">
+            <e:skinName>
+                <e:Skin states="up,down,disabled">
+                    <e:Group width="366" height="57"/>
+                    <e:Image source.down="chatBox_left_selected_png" source.up=""  height="65"/>
+                    <e:Image source.down="chatBox_textChat_title_selected_png" source.up="chatBox_textChat_title_unSelected_png"
+                             horizontalCenter="0" verticalCenter="0" />
+                </e:Skin>
+            </e:skinName>
+        </e:RadioButton>
+        <e:RadioButton right="16" value="1" y="6" width="366" height="65" selected="true">
+            <e:skinName>
+                <e:Skin states="up,down,disabled">
+                <e:Group width="366" height="57"/>
+                    <e:Image source.down="chatBox_right_selected_png" source.up="" height="65"/>
+                    <e:Image source.down="chatBox_faceChat_title_selected_png" source.up="chatBox_faceChat_title_unSelected_png"
+                             horizontalCenter="0" verticalCenter="0" />
+                </e:Skin>
+            </e:skinName>
+        </e:RadioButton>
+        <ns1:CloseButton visible="false" id="closeButton" contentImageSource="" width="25" height="40" x="542.5"
+                         y="-26" />
+    </e:Group>
+    <e:ViewStack id="chatViewStack" width="569" height="323" top="62" anchorOffsetY="0" anchorOffsetX="0" x="8"
+                 selectedIndex="0">
+        <e:Group x="0" y="28">
+            <e:Scroller width="699" height="347" anchorOffsetY="0" scrollPolicyH="off" left="20" anchorOffsetX="0">
+                <e:List id="textChatList" width="705" height="351">
+                    <e:layout>
+                        <e:TileLayout requestedColumnCount="1" verticalGap="10"></e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+        <e:Group visible="false">
+            <e:Scroller width="697" height="350" anchorOffsetY="0" scrollPolicyH="off" left="20" anchorOffsetX="0">
+                <e:List id="faceChatList" width="699" height="800" anchorOffsetX="0">
+                    <e:layout>
+                        <e:TileLayout requestedColumnCount="6" horizontalGap="21" verticalGap="22"></e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+    </e:ViewStack>
+</e:Skin>

@@ -1,0 +1,91 @@
+{
+    "splice_nickName_length": 5,
+    "splice_nickName_format": "...",
+    "maxCardCount": 54,
+    "playerHandCardCount": 13,
+    "maxPlayerCount": 4,
+    "dealCardAnimationList": [
+        {
+            "startX": 300,
+            "startY": 470,
+            "spaceH": 40,
+            "spaceV": 0,
+            "animationTime": 300,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "rotation": 0
+        },
+        {
+            "startX":980,
+            "startY": 250,
+            "spaceH": -20,
+            "spaceV": 0,
+            "animationTime": 300,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "rotation": 0
+        },
+        {
+            "startX": 560,
+            "startY": 70,
+            "spaceH": 20,
+            "spaceV": 0,
+            "animationTime": 300,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "rotation": 0
+        },
+        {
+            "startX": 150,
+            "startY": 250,
+            "spaceH": 20,
+            "spaceV": 0,
+            "animationTime": 300,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "rotation": 0
+        }
+    ],
+    "playCardCompletePositionList": [
+        {
+            "startX": 458,
+            "startY": 438,
+            "spaceH": 0,
+            "spaceV": 0,
+            "animationTime": 0,
+            "scaleX": 0.8,
+            "scaleY": 0.8,
+            "rotation": 0
+        },
+        {
+            "startX": 716,
+            "startY": 245,
+            "spaceH": 0,
+            "spaceV": 0,
+            "animationTime": 0,
+            "scaleX": 0.6,
+            "scaleY": 0.6,
+            "rotation": 0
+        },
+        {
+            "startX": 527,
+            "startY": 56,
+            "spaceH": 0,
+            "spaceV": 0,
+            "animationTime": 0,
+            "scaleX": 0.6,
+            "scaleY": 0.6,
+            "rotation": 0
+        },
+        {
+            "startX": 138,
+            "startY": 245,
+            "spaceH": 0,
+            "spaceV": 0,
+            "animationTime": 0,
+            "scaleX": 0.6,
+            "scaleY": 0.6,
+            "rotation": 0
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SRightPlayerInformationBSkin" width="300" height="137" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+        <e:Group id="currencyGroup" x="0" width="220" height="115" verticalCenter="0">
+            <ns1:LabelCommponents id="nickNameLabel" text="这是玩家I..." size="24" x="28" right="60" fontFamily="simHei" y="23"/>
+        <e:Image source="sPlayerInformation_score_bg_png" x="110" alpha="0.5" width="220" scale9Grid="0,1,2,114"  anchorOffsetX="110" anchorOffsetY="58" y="58" scaleX="-1"/>
+        <ns1:LabelCommponents id="currencyLabel" textColor="0xfff572" text="12345677" size="24" right="60" y="67"/>
+    </e:Group>
+    <ns1:SPlayerInformationButton id="playerInformationButton" contentImageSource="" maskImageSource="sPlayerInformation_header_mask_png" width="133" height="137" x="167" y="0"/>
+</e:Skin>

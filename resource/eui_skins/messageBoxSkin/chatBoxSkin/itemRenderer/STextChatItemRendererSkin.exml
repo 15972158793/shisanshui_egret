@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="STextChatItemRendererSkin" width="704" height="42" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="chatBox_textChat_itemRender_png"/>
+    <ns1:LabelCommponents text="{data.chatText}"  x="25" verticalCenter="0"/>
+</e:Skin>

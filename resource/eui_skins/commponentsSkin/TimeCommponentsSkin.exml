@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TimeCommponentsSkin" width="731" height="12" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="timeCommponents_progress_bg_png"/>
+    <e:Image id="progressingImage" source="timeCommponents_progressing_image_png" y="-4" x="-4" width="739"  fillMode="clip"/>
+</e:Skin>

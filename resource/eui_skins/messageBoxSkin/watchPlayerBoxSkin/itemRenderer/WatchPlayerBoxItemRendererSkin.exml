@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="WatchPlayerBoxItemRendererSkin" width="93" height="125" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:LabelCommponents text="{data.nickName}" width="94" height="30" horizontalCenter="0"/>
+ <ns1:SPlayerInformationButton id="playerInformationButton"  width="93" height="95" contentImageSource="{data.headerImageUrl}" maskImageSource="playerInformation_mask_bg_png" y="31"/>
+</e:Skin>

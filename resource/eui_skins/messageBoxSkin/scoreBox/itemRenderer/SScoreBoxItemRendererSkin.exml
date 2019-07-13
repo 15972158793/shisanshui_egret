@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SScoreBoxItemRendererSkin" width="156" height="359" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="scoreBoxItemRenderer_bg_png"/>
+    <ns1:SPlayerInformationButton width="93" height="95" contentImageSource="{data.headerImageUrl}" maskImageSource="playerInformation_mask_bg_png"  horizontalCenter="0.5" y="10"/>
+     <e:Image id="hatImage" source="scoreBox_hat_image_png" x="-1" y="-4"/>
+    <e:Group width="250" height="20" horizontalCenter="0" y="110">
+        <ns1:LabelCommponents text="{data.nickName}" horizontalCenter="0" size="18" />
+    </e:Group>
+    <e:Group width="156" height="145" y="133">
+        <e:Group width="156" height="30" y="16">
+            <ns1:LabelCommponents text="比牌分" x="13" size="24" textColor="0xa79da2" verticalCenter="0"/>
+            <ns1:LabelCommponents text="{data.compareNumbersString}" x="113" verticalCenter="0" size="24" textColor="0xa79da2"/>
+        </e:Group>
+        <e:Group width="156" height="30" y="67">
+            <ns1:LabelCommponents text="打枪分" x="13" size="24" textColor="0xa79da2" verticalCenter="0"/>
+            <ns1:LabelCommponents text="{data.gunsNumbersString}" x="113" size="24" textColor="0xa79da2" verticalCenter="0"/>
+        </e:Group>
+        <e:Group width="156" height="30" y="112" >
+            <ns1:LabelCommponents text="红波浪" x="13" size="24" textColor="0xa79da2" verticalCenter="0"/>
+            <ns1:LabelCommponents text="{data.redWaveNumbersString}" x="113" size="24" textColor="0xa79da2" verticalCenter="0"/>
+        </e:Group>
+    </e:Group>
+    <e:Group width="156" height="72" y="286">
+         <ns1:LabelCommponents text="总成绩" horizontalCenter="0" y="7" size="24" textColor="0xe1e1e1"/>
+         <ns1:LabelCommponents text="{data.scoreNumbersString}" horizontalCenter="0.5" y="40" size="24" textColor="0xe1e1e1"/>
+    </e:Group>
+</e:Skin>

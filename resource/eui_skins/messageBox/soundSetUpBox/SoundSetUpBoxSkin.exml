@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SoundSetUpBoxSkin" width="673" height="491" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_small_bg_png" x="-1" y="-1"/>
+    <e:Group width="673" height="55" y="7">
+        <ns1:LabelBase text="设置" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0"/>
+    </e:Group>
+             <ns1:LabelBase text="音乐：" textColor="0xa0989b" top="158" x="189"></ns1:LabelBase>
+                <e:ToggleButton id="musicToggleButton" top="126" selected="true" x="290">
+                    <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                        <e:Image source="soundSetUpBox_off_bg_png" includeIn="up,down"/>
+                        <e:Image source="soundSetUpBox_on_bg_png" includeIn="upAndSelected,downAndSelected"/>
+                    </e:Skin>
+                </e:ToggleButton>
+                <ns1:LabelBase text="音效：" textColor="0xa0989b" top="316" x="189"></ns1:LabelBase>
+                <e:ToggleButton id="effectToggleButton" top="286" selected="true" x="292">
+                    <e:Skin states="up,down,disabled,upAndSelected,downAndSelected,disabledAndSelected">
+                        <e:Image source="soundSetUpBox_off_bg_png" includeIn="up,down"/>
+                        <e:Image source="soundSetUpBox_on_bg_png" includeIn="upAndSelected,downAndSelected"/>
+                    </e:Skin>
+                </e:ToggleButton>
+    <ns1:CloseButton id="closeButton" contentImageSource="messageBox_close_button_png" x="563" y="-8" width="88" height="88"/>
+</e:Skin>

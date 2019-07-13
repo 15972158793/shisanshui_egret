@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SNoticeCBoxSkin" width="763" height="397" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_b_bg_png" />
+    <e:Group width="763" height="55" y="7">
+        <ns1:LabelCommponents text="提示" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0" />
+    </e:Group>
+    <ns1:CloseButtonCommponents id="closeButton" visible="false" contentImageSource="messageBox_close_button_png" x="653" y="-8"
+                     width="88" height="88" />
+    <e:Scroller height="130" width="763" y="78.18">
+        <e:List id="playerInformationList" width="763" height="130">
+            <e:layout>
+                <e:TileLayout paddingLeft="70" horizontalGap="80"></e:TileLayout>
+            </e:layout>
+        </e:List>
+    </e:Scroller>
+    <ns1:TimeCommponents id="timeCommponents" width="731" height="12" y="225" x="16" />
+    <e:Group id="buttonGroup" y="274" height="86" width="763">
+        <ns1:ButtonCommponents id="agreeGroupButton" bgImageSource=""
+                               contentImageSource="" width="224" height="86" horizontalCenter="169.5" />
+        <ns1:ButtonCommponents id="refuseGroupButton" bgImageSource=""
+                               contentImageSource="" width="224" height="86" x="100" />
+    </e:Group>
+        <ns1:LabelCommponents id="operateTypeLabel" text="" horizontalCenter="0"  y="303"/>
+</e:Skin>

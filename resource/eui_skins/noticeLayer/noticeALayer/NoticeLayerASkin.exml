@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="NoticeLayerASkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group width="1206" height="200" y="139" horizontalCenter="0" touchEnabled="false">
+        <ns1:LabelBase id="noticeLabel" text="123123" alpha="0" touchEnabled="false" horizontalCenter="0"
+                       verticalCenter="0" width="1000" textAlign="center" verticalAlign="middle" lineSpacing="20"  />
+    </e:Group>
+</e:Skin>

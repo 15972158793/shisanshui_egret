@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Time2CommponentsSkin" width="168" height="85" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="time2Commponents_bg_png"/>
+    <e:Image id="fillImage" source="time2Commponents_fill_png" x="11" y="5"/>
+  <ns1:LabelCommponents id="putCardTimerText" text="" textAlign="center" verticalAlign="middle" textColor="0xe7ffca" size="33" x="83" y="20" anchorOffsetX="0" width="64"/>
+</e:Skin>

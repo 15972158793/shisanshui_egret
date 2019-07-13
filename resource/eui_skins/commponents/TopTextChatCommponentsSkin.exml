@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TopTextChatCommponentsSkin" width="244" height="117" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group  width="244" height="117">
+        <e:Image source="chatBox_textChat_top_png" width="100%" height="100%"/>
+        <ns1:LabelBase id="chatTextLabel" text="快点吧，我等到花儿都谢了。" width="200" size="24"  horizontalCenter="3" verticalCenter="6.5"/>
+    </e:Group>
+</e:Skin>

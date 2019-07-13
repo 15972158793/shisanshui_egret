@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BottomCardSkin" width="109" height="148" xmlns:e="http://ns.egret.com/eui">
+    <e:Image id="cardBgImage" source="" touchEnabled="true"/>
+    <e:Image id="cardValueImage" source="" x="9" y="5" touchEnabled="false"/>
+    <e:Image id="cardSmallColorImage" source="" x="16" y="50" touchEnabled="false"/>
+    <e:Image id="cardColorImage" source="" right="11" y="70" touchEnabled="false"/>
+</e:Skin>

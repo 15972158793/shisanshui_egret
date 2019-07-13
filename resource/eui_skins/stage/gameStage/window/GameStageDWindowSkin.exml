@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStageDWindowSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group id="buttonGroup" anchorOffsetY="0" height="358" horizontalCenter="0" verticalCenter="194" visible="false">
+        <ns1:StandUpGroupButton width="224" height="86" horizontalCenter="0" y="90" bgImageSource="button_blue3_png"
+                                contentImageSource="standUp_image_png"  visible="false"/>
+        <ns1:GameStartGroupButton width="224" height="86" horizontalCenter="0" y="0" visible="false"
+                                  bgImageSource="" contentImageSource="" />
+        <ns1:ReadyGroupButton width="224" height="86" horizontalCenter="0" y="180" bgImageSource="button_blue3_png"
+                              contentImageSource="readyButton_ready_image_png" />
+
+    </e:Group>
+
+    <e:Group id="sitDownButtonGroup" touchEnabled="false" anchorOffsetY="0" height="358" horizontalCenter="0" verticalCenter="194">
+        <ns1:ButtonCommponents id="randomSitDownButton" width="224" height="86" horizontalCenter="0" y="90" bgImageSource="button_blue_png"
+                                contentImageSource="sitDown_image_png" />
+
+    </e:Group>
+  
+    <e:Group id="readyGroup" width="1206" height="750" touchEnabled="false">
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnum="0" source="ready_image_png" x="238" y="532"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnum="1" source="ready_image_png" x="970" y="224"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnum="2" source="ready_image_png" x="521.5" y="70"
+                                   visible="false" />
+        <ns1:ReadyImageCommponents width="81" height="44" positionEnum="3" source="ready_image_png" x="141.5" y="216"
+                                   visible="false" />
+    </e:Group>
+</e:Skin>

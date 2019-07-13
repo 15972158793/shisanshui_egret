@@ -1,0 +1,634 @@
+{
+    "frameRate": 24,
+    "isGlobal": 0,
+    "armature": [
+        {
+            "type": "MovieClip",
+            "name": "MovieClip",
+            "ik": [],
+            "animation": [
+                {
+                    "frame": [],
+                    "playTimes": 0,
+                    "slot": [
+                        {
+                            "frame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 32,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "displayIndex": -1,
+                                    "duration": 2,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "星星"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "displayIndex": -1,
+                                    "duration": 8,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 22,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "条1"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "displayIndex": -1,
+                                    "duration": 8,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 22,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "条2"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "displayIndex": -1,
+                                    "duration": 12,
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                }
+                            ],
+                            "name": "光"
+                        }
+                    ],
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "root"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "scX": 1.1897,
+                                        "y": -96.9945,
+                                        "scY": 1.1897,
+                                        "x": -36.5893
+                                    }
+                                },
+                                {
+                                    "duration": 32,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 10.7143,
+                                        "x": -36.5893
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 10.7143,
+                                        "x": -36.5893
+                                    }
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 10.7143,
+                                        "x": -36.5893
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 10.7143,
+                                        "x": -36.5893
+                                    }
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "scX": 0.01,
+                                        "y": 60.7321,
+                                        "scY": 0.01,
+                                        "skX": 180,
+                                        "skY": 180,
+                                        "x": -38.4107
+                                    }
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 60.7321,
+                                        "x": -38.4107
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 60.7321,
+                                        "x": -38.4107
+                                    }
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 60.7321,
+                                        "x": -38.4107
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 60.7321,
+                                        "x": -38.4107
+                                    }
+                                }
+                            ],
+                            "name": "星星"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "scX": 0.01,
+                                        "y": 81.4724,
+                                        "x": -56.2831
+                                    }
+                                },
+                                {
+                                    "duration": 22,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 80.5568,
+                                        "x": -143.2558
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 80.5568,
+                                        "x": -143.2558
+                                    }
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 80.5568,
+                                        "x": -143.2558
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 80.5568,
+                                        "x": -143.2558
+                                    }
+                                }
+                            ],
+                            "name": "条1"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "scX": 0.01,
+                                        "y": 80.5568,
+                                        "x": -21.866
+                                    }
+                                },
+                                {
+                                    "duration": 22,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "scX": -1,
+                                        "y": 80.5568,
+                                        "x": 68.9976
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "scX": -1,
+                                        "y": 80.5568,
+                                        "x": 68.9976
+                                    }
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "scX": -1,
+                                        "y": 80.5568,
+                                        "x": 68.9976
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "scX": -1,
+                                        "y": 80.5568,
+                                        "x": 68.9976
+                                    }
+                                }
+                            ],
+                            "name": "条2"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 12,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 31.1254,
+                                        "x": -37.0794
+                                    }
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 31.1254,
+                                        "skX": 180,
+                                        "skY": 180,
+                                        "x": -37.0794
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "transform": {
+                                        "y": 31.1254,
+                                        "x": -37.0794
+                                    }
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 31.1254,
+                                        "x": -37.0794
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 31.1254,
+                                        "x": -37.0794
+                                    }
+                                }
+                            ],
+                            "name": "光"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": null,
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "newLayer"
+                        }
+                    ],
+                    "duration": 55,
+                    "name": "newAnimation",
+                    "ffd": []
+                }
+            ],
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "光",
+                    "parent": "光",
+                    "color": {}
+                },
+                {
+                    "z": 1,
+                    "displayIndex": -1,
+                    "name": "字",
+                    "parent": "字",
+                    "color": {}
+                },
+                {
+                    "z": 2,
+                    "displayIndex": -1,
+                    "name": "条1",
+                    "parent": "条1",
+                    "color": {}
+                },
+                {
+                    "z": 3,
+                    "displayIndex": -1,
+                    "name": "条2",
+                    "parent": "条2",
+                    "color": {}
+                },
+                {
+                    "z": 4,
+                    "displayIndex": -1,
+                    "name": "星星",
+                    "parent": "星星",
+                    "color": {}
+                },
+                {
+                    "z": 5,
+                    "displayIndex": -1,
+                    "name": "newLayer",
+                    "parent": "newLayer",
+                    "color": {}
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "条",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "条2"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "字",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "字"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "星",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "星星"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "条",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "条1"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "光",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "光"
+                        }
+                    ],
+                    "name": ""
+                }
+            ],
+            "bone": [
+                {
+                    "transform": {},
+                    "name": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "字",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "星星",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "条1",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "条2",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "光",
+                    "parent": "root"
+                },
+                {
+                    "transform": {},
+                    "name": "newLayer",
+                    "parent": "root"
+                }
+            ],
+            "aabb": {
+                "width": 369.0893,
+                "y": -169,
+                "height": 338,
+                "x": -200.0893
+            },
+            "frameRate": 24,
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ]
+        }
+    ],
+    "name": "gameStart_ske",
+    "version": "5.0"
+}

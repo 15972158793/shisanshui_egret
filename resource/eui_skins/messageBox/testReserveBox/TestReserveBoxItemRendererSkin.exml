@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestReserveBoxItemRendererSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:BottomCard cardUtil="{data}"/>
+</e:Skin>

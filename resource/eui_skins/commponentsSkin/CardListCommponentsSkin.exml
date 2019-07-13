@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardListCommponentsSkin" width="340" height="360" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group name="cardGroup0" width="600" y="0" x="0" height="159" alpha="1" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="350" y="11" x="40" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="110" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="174" rotation="370" y="-1" touchEnabled="false"/>
+
+    </e:Group>
+    <e:Group  name="cardGroup1" y="88" x="0" height="178" width="600"  alpha="1" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-10" y="33" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="52" y="10" rotation="350" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="117" rotation="360" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="178" rotation="370" y="-3" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="238" rotation="380" y="5" touchEnabled="false"/>
+
+    </e:Group>
+
+    <e:Group name="cardGroup2" y="182" x="0" width="600" height="178"  alpha="1" touchEnabled="false">
+        <ns1:BottomCard width="109" height="143" rotation="340" x="-10" y="33" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="52" y="10" rotation="350" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="117" rotation="360" y="0" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="178" rotation="370" y="-3" touchEnabled="false"/>
+        <ns1:BottomCard width="109" height="143" x="238" rotation="380" y="5" touchEnabled="false"/>
+
+    </e:Group>
+</e:Skin>

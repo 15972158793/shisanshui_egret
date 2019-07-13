@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SHistoryBoxItemRendererSkin" width="560" height="160" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:LabelCommponents text="这是我的ID" verticalCenter="0" x="32"/>
+    <ns1:LabelCommponents textColor="0xfff572"  text="+30" x="397" verticalCenter="0"/>
+    <e:Image source="sScoreBox_fill_bg_png" horizontalCenter="0" bottom="0"/>
+</e:Skin>

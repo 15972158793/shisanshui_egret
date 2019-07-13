@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="STestMessageBoxSkin" width="471" height="1036" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="sRuleBox_content_bg_png" />
+    <ns1:ChoosePlayerButton positionEnumString="1"  contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="2号玩家" />
+    <ns1:ChoosePlayerButton positionEnumString="2"  contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="3号玩家" y="100" />
+    <ns1:ChoosePlayerButton positionEnumString="3"  contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="4号玩家" y="200" />
+</e:Skin>

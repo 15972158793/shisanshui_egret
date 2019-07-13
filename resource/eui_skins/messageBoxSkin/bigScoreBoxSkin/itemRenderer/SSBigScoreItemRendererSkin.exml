@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SSBigScoreItemRendererSkin" width="800" height="65" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+     <ns1:SPlayerInformationButton id="playerInformationButton"  width="93" height="95" contentImageSource="{data.headerImageUrl}" scaleX="0.6" scaleY="0.6" maskImageSource="playerInformation_mask_bg_png" verticalCenter="0" x="30"/>
+         <e:Image id="hatImage" source="scoreBox_hat_image_png" x="-2" y="-22" visible="false"/>
+    <ns1:LabelCommponents text="{data.nickName}" size="32" horizontalCenter="-52.5" verticalCenter="0"/>
+    <ns1:LabelCommponents id="textColorLabel" text="{data.totalScore}" verticalCenter="0" x="726"/>
+    <e:Image source="bigScoreBox_border_png" bottom="0"/>
+</e:Skin>

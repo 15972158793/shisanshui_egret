@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ScoreBoxSkin" width="931" height="586" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_b_bg_png" width="931" height="586" />
+    <e:Group width="931" height="82.27" y="10.04" anchorOffsetY="0">
+        <ns1:LabelBase text="单局统分" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0" />
+        <ns1:CloseButton id="closeButton" contentImageSource="messageBox_close_button_png" x="809" width="88"
+                         height="88" y="-4.56" />
+    </e:Group>
+    <e:Scroller width="886.36" height="369" horizontalCenter="0.5" y="107.55" anchorOffsetX="0">
+        <e:List id="singleScoreUtilList" anchorOffsetX="0" width="907">
+            <e:layout>
+                <e:TileLayout horizontalGap="50" paddingLeft="50"></e:TileLayout>
+            </e:layout>
+        </e:List>
+    </e:Scroller>
+    <ns1:ContinueGroupButton width="224" height="86" horizontalCenter="0.5" y="460" bgImageSource=""
+                           contentImageSource="" />
+</e:Skin>

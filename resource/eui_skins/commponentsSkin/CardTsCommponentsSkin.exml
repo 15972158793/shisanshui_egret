@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardTsCommponentsSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group name="cardGroup0" width="340" height="23" alpha="1" touchEnabled="false" anchorOffsetY="0" anchorOffsetX="0" left="532" top="42">
+			<ns1:CardTs width="20" height="20" x="20" y="8.5"/>
+			<ns1:CardTs width="20" height="20" x="0" y="8.5"/>
+			<ns1:CardTs width="20" height="20" x="40" y="8.5"/>
+			<ns1:CardTs width="20" height="20" x="60" y="8.5"/>
+			<ns1:CardTs width="20" height="20" x="60" y="29"/>
+			<ns1:CardTs width="20" height="20" x="70" y="38.5"/>
+			<ns1:CardTs width="20" height="20" x="80" y="48.5"/>
+			<ns1:CardTs width="20" height="20" x="90" y="58.5"/>
+			<ns1:CardTs width="20" height="20" x="100" y="68.5"/>
+			<ns1:CardTs width="20" height="20" x="110" y="78.5"/>
+			<ns1:CardTs width="20" height="20" x="120" y="88.5"/>
+			<ns1:CardTs width="20" height="20" x="130" y="98.5"/>
+			<ns1:CardTs width="20" height="20" x="140" y="108.5"/>
+			<e:layout>
+				<e:TileLayout/>
+			</e:layout>
+        
+    </e:Group>
+    <e:Group  name="cardGroup1" height="178" width="49"  alpha="1" touchEnabled="false" anchorOffsetX="0" y="190" x="162">
+			<ns1:CardTs width="20" height="20" x="96" y="-7.5" scaleX="1" scaleY="1"/>
+			<ns1:CardTs width="20" height="20" x="140" y="108.5"/>
+			<ns1:CardTs width="20" height="20" x="150" y="118.5"/>
+			<ns1:CardTs width="20" height="20" x="160" y="128.5"/>
+			<ns1:CardTs width="20" height="20" x="170" y="138.5"/>
+			<ns1:CardTs width="20" height="20" x="180" y="148.5"/>
+			<ns1:CardTs width="20" height="20" x="190" y="158.5"/>
+			<ns1:CardTs width="20" height="20" x="200" y="168.5"/>
+			<ns1:CardTs width="20" height="20" x="210" y="178.5"/>
+			<ns1:CardTs width="20" height="20" x="220" y="188.5"/>
+			<ns1:CardTs width="20" height="20" x="230" y="198.5"/>
+			<ns1:CardTs width="20" height="20" x="240" y="208.5"/>
+			<ns1:CardTs width="20" height="20" x="250" y="218.5"/>
+			<e:layout>
+				<e:TileLayout/>
+			</e:layout>
+        
+    </e:Group>
+
+    <e:Group name="cardGroup2" y="182" x="896" width="50" height="193"  alpha="1" touchEnabled="false" anchorOffsetX="0" anchorOffsetY="0">
+			<ns1:CardTs width="20" height="20" x="260" y="228.5"/>
+			<ns1:CardTs width="20" height="20" x="270" y="238.5"/>
+			<ns1:CardTs width="20" height="20" x="280" y="248.5"/>
+			<ns1:CardTs width="20" height="20" x="290" y="258.5"/>
+			<ns1:CardTs width="20" height="20" x="300" y="268.5"/>
+			<ns1:CardTs width="20" height="20" x="310" y="278.5"/>
+			<ns1:CardTs width="20" height="20" x="320" y="288.5"/>
+			<ns1:CardTs width="20" height="20" x="330" y="298.5"/>
+			<ns1:CardTs width="20" height="20" x="340" y="308.5"/>
+			<ns1:CardTs width="20" height="20" x="350" y="318.5"/>
+			<ns1:CardTs width="20" height="20" x="360" y="328.5"/>
+			<ns1:CardTs width="20" height="20" x="370" y="338.5"/>
+			<ns1:CardTs width="20" height="20" x="380" y="348.5"/>
+			<ns1:CardTs width="20" height="20" x="-538" y="36.5" scaleX="1" scaleY="1"/>
+			<e:layout>
+				<e:TileLayout/>
+			</e:layout>
+        
+    </e:Group>
+</e:Skin>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SCardBoxSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:w="http://ns.egret.com/wing">
+    <e:Group y="20" height="147" x="0" width="1206">
+        <e:Image source="cardBox_before_title_png" x="148" y="32"/>
+        <e:Image source="cardBox_threeCard_bg_png" x="386" y="0"/>
+        <e:Group width="152" height="89" anchorOffsetY="0" x="0" y="37">
+            <e:Image id="beforeCardTypeImage" source="" horizontalCenter="0" verticalCenter="0"/>
+        </e:Group>
+    </e:Group>
+    <e:Group y="164" height="147" x="0" width="1206">
+        <e:Image source="cardBox_center_title_png" x="148" y="32"/>
+        <e:Image source="cardBox_fiveCard_bg_png" x="300" y="0"/>
+        <e:Group width="152" height="89" anchorOffsetY="0" x="0" y="37">
+            <e:Image id="centerCardTypeImage" source="" horizontalCenter="0" verticalCenter="0"/>
+        </e:Group>
+    </e:Group>
+    <e:Group y="310" height="147" x="0" width="1206" touchEnabled="false">
+        <e:Image source="cardBox_after_title_png" x="148" y="32"/>
+        <e:Image source="cardBox_fiveCard_bg_png" x="300" y="0"/>
+        <e:Group width="152" height="89" x="0" y="37">
+            <e:Image id="afterCardTypeImage" source="" horizontalCenter="0" verticalCenter="0"/>
+        </e:Group>
+    </e:Group>
+
+    <e:Group id="cardGroup" width="1206" height="750">
+        <e:Group name="putCardGroup0_0" width="109" height="148" x="449" y="35" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup0_1" width="109" height="148" x="554" y="35" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup0_2" width="109" height="148" x="659" y="35" scaleX="0.8" scaleY="0.8"/>
+
+        <e:Group name="putCardGroup1_0" width="109" height="148" x="351" y="179" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup1_1" width="109" height="148" x="454" y="179" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup1_2" width="109" height="148" x="556" y="179" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup1_3" width="109" height="148" x="659" y="179" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup1_4" width="109" height="148" x="761" y="179" scaleX="0.8" scaleY="0.8"/>
+
+        <e:Group name="putCardGroup2_0" width="109" height="148" x="351" y="325" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup2_1" width="109" height="148" x="454" y="325" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup2_2" width="109" height="148" x="556" y="325" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup2_3" width="109" height="148" x="659" y="325" scaleX="0.8" scaleY="0.8"/>
+        <e:Group name="putCardGroup2_4" width="109" height="148" x="761" y="325" scaleX="0.8" scaleY="0.8"/>
+    </e:Group>
+    <e:Group width="1206" height="86" bottom="0">  
+        <e:List id="cardTypeButtonDataGroup" width="1206" height="86">
+            <e:layout>
+                <e:TileLayout requestedColumnCount="9" horizontalGap="-12" paddingLeft="10">
+                </e:TileLayout>
+            </e:layout>
+        </e:List>
+    </e:Group>
+<e:Group id="returnButtonGroup" width="1206" height="750" touchEnabled="false">
+     <ns1:ButtonCommponents name="0" contentImageSource="cardBox_return_button_png" x="964" y="48" width="88" height="96"/>
+     <ns1:ButtonCommponents name="1"  contentImageSource="cardBox_return_button_png" x="964" y="192" width="88" height="96"/>
+     <ns1:ButtonCommponents name="2"  contentImageSource="cardBox_return_button_png"  x="964" y="338" width="88" height="96"/>
+     <e:Image id="reserveImage" source="" alpha="0" horizontalCenter="0.5" verticalCenter="-140" touchEnabled="false"/>
+    
+</e:Group>
+<ns1:Time2Commponents id="time2Commponents" width="168" height="85" y="518" x="34"/>
+<ns1:ButtonCommponents id="putCompleteGroupButton" visible="false"  width="224" height="86" y="522" bgImageSource="" contentImageSource="" horizontalCenter="0"/>
+	<e:Group id="ts4" width="133.33" height="380.3" x="223.94" y="69.06" anchorOffsetX="0" anchorOffsetY="0">
+		<e:layout>
+			<e:TileLayout/>
+		</e:layout>
+	</e:Group>
+	<e:Group id="ts2" width="119.7" height="380.3" x="847.79" y="55" anchorOffsetX="0" anchorOffsetY="0" scaleX="1" scaleY="1">
+		<e:layout>
+			<e:TileLayout/>
+		</e:layout>
+	</e:Group>
+	<e:Group id="ts3" width="439.39" height="65.15" x="408" y="109" anchorOffsetX="0" anchorOffsetY="0">
+		<e:layout>
+			<e:TileLayout/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

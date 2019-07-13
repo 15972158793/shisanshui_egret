@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RuleBoxSkin" width="931" height="586" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_small_bg_png" width="931" height="586" />
+    <e:Group width="931" height="55" y="7">
+        <ns1:LabelBase text="规则" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0" />
+    </e:Group>
+    <ns1:CloseButton id="closeButton" contentImageSource="messageBox_close_button_png" x="809" y="-8" width="88" height="88" />
+    <e:Image source="ruleBox_fill_image_png" horizontalCenter="0.5" y="88" />
+    <e:Scroller width="764" height="452" horizontalCenter="0.5" y="90">
+        <e:Group height="452">
+            <e:Image source="ruleBox_image_png" />
+        </e:Group>
+    </e:Scroller>
+</e:Skin>

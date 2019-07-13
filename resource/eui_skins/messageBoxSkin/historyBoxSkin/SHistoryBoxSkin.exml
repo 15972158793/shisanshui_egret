@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SHistoryBoxSkin" width="560" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="sMessageBox_c_bg_png" width="100%" scale9Grid="30,160,180,960" />
+    <e:Group width="100%" y="91" height="50">
+        <e:Image source="sMessageBox_content_png" scale9Grid="38,1,228,7" width="560" height="50" />
+        <ns1:LabelCommponents text="昵称" textColor="0xfff572" verticalCenter="0" x="85" />
+        <ns1:LabelCommponents text="牌型" textColor="0xfff572" verticalCenter="0" x="255" />
+        <ns1:LabelCommponents text="成绩" textColor="0xfff572" verticalCenter="0" x="427" />
+    </e:Group>
+    <e:Group width="100%" height="77" y="0">
+        <e:RadioButton id="selectChatTypeRadioButton" selected="true" value="1" y="0" x="19" width="261" height="77">
+            <e:skinName>
+                <e:Skin states="up,down,disabled">
+                    <e:Group width="261" height="77" />
+                    <e:Image source.down="sButton_red_b_bg_png" source.up="sButton_blue_b_bg_png" />
+                    <ns1:LabelCommponents text="最近一局" horizontalCenter="0" verticalCenter="0" />
+                </e:Skin>
+            </e:skinName>
+        </e:RadioButton>
+        <e:RadioButton right="19" value="0" y="0" width="261" height="77" selected="false">
+            <e:skinName>
+                <e:Skin states="up,down,disabled">
+                    <e:Group width="261" height="77" />
+                    <e:Image source.down="sButton_red_b_bg_png" source.up="sButton_blue_b_bg_png" />
+                    <ns1:LabelCommponents text="历史回顾" horizontalCenter="0" verticalCenter="0" />
+                </e:Skin>
+            </e:skinName>
+        </e:RadioButton>
+    </e:Group>
+    <e:ViewStack id="chatViewStack" width="548" height="1130" anchorOffsetY="0" anchorOffsetX="0" x="0"
+                 selectedIndex="0" y="150">
+        <e:Group x="0" y="0" width="527" height="1130">
+            <e:Scroller width="511" height="1130" scrollPolicyH="off" left="20" anchorOffsetX="0">
+                <e:List id="textChatList" width="459" height="1130" anchorOffsetX="0">
+                    <e:layout>
+                        <e:TileLayout requestedColumnCount="1" ></e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+        <e:Group y="0">
+            <e:Scroller width="511" height="266" scrollPolicyH="off" left="20" anchorOffsetX="0">
+                <e:List id="faceChatList" width="699" height="240" anchorOffsetX="0">
+                    <e:layout>
+                        <e:TileLayout requestedColumnCount="5" horizontalGap="0" verticalGap="0"></e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+    </e:ViewStack>
+</e:Skin>

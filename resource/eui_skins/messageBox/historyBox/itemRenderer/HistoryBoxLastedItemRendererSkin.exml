@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HistoryBoxLastedItemRendererSkin" width="383" height="110" xmlns:e="http://ns.egret.com/eui"
+        xmlns:ns1="*">
+    <e:Group width="93" height="95">
+        <ns1:PlayerInformationHeader width="93" height="95" playerHeaderImageUrl="{data.headerImageUrl}"  x="12"/>
+        <ns1:LabelBase text="{data.nickName}" verticalCenter="0.5" x="132" />
+        <ns1:LabelBase text="{data.currency}" verticalCenter="0.5" x="324" />
+    </e:Group>
+    <e:Image source="watchPlayerBox_border_image_png" bottom="0" />
+</e:Skin>

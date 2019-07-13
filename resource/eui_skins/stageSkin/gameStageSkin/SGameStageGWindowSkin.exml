@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SGameStageGWindowSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui">
+    <e:Image name="guns0" visible="false" source="guns_image_png" x="338" y="576" scaleY="-1" anchorOffsetX="107" anchorOffsetY="77"/>
+    <e:Image name="guns1" visible="false"  source="guns_image_png" x="908" y="308" anchorOffsetX="107" anchorOffsetY="77"/>
+    <e:Image name="guns2" visible="false" source="guns_image_png" x="486" y="114" anchorOffsetX="107" anchorOffsetY="77"/>
+    <e:Image name="guns3" visible="false" source="guns_image_png" x="212" y="344" anchorOffsetX="107" anchorOffsetY="77"/>
+    
+    <e:Group name="shotHoleGroup0" width="93" height="95" x="136" y="520">
+        <e:Image visible="false" source="shotHole_image_png" x="14" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="66" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="40" y="60"/>
+    </e:Group>
+    <e:Group name="shotHoleGroup1" width="93" height="95" x="1078" y="190">
+        <e:Image visible="false" source="shotHole_image_png" x="14" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="66" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="40" y="60"/>
+    </e:Group>
+    <e:Group name="shotHoleGroup2" width="93" height="95" x="424" y="54">
+        <e:Image visible="false" source="shotHole_image_png" x="14" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="66" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="40" y="60"/>
+    </e:Group>
+    <e:Group name="shotHoleGroup3" width="93" height="95" y="190" x="22">
+        <e:Image visible="false" source="shotHole_image_png" x="14" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="66" y="18"/>
+        <e:Image visible="false" source="shotHole_image_png" x="40" y="60"/>
+    </e:Group>
+</e:Skin>

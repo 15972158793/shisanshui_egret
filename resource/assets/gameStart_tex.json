@@ -1,0 +1,36 @@
+{
+    "imagePath": "gameStart_tex.png",
+    "width": 512,
+    "height": 512,
+    "name": "gameStart_ske",
+    "SubTexture": [
+        {
+            "width": 338,
+            "y": 1,
+            "height": 338,
+            "name": "光",
+            "x": 1
+        },
+        {
+            "width": 327,
+            "y": 341,
+            "height": 100,
+            "name": "字",
+            "x": 1
+        },
+        {
+            "width": 189,
+            "y": 443,
+            "height": 54,
+            "name": "条",
+            "x": 1
+        },
+        {
+            "width": 78,
+            "y": 341,
+            "height": 82,
+            "name": "星",
+            "x": 330
+        }
+    ]
+}

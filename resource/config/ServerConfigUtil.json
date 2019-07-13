@@ -1,0 +1,8 @@
+{
+    "serverIP":"192.168.3.158",
+    "serverPort":9001,
+    "wxSignature":"xx.xxx.xxx.xx",
+    "wsUrl":"",
+    "wssUrl":"",
+    "socketConnectTypeEnum":1
+}

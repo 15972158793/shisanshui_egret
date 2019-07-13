@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SNoticeABoxSkin" width="763" height="397" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_b_bg_png" />
+    <e:Group width="763" height="55" y="7">
+        <ns1:LabelCommponents text="提示" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0" />
+    </e:Group>
+    <ns1:CloseButtonCommponents id="closeButton" contentImageSource="messageBox_close_button_png" x="653" y="-8" width="88" height="88" />
+    <ns1:LabelCommponents id="noticeLabel" horizontalCenter="0" textAlign="center"
+                   text="我是来测我是来测试我是来测试我是来测试我是来测试我是来测试我是来测试试我我是来测试我是来测试我是来测试我是来测试我是来测试是来测试我是来测试我是来测试我是来测试我是来测试我是来测试"
+                   width="600" y="100" />
+    <ns1:ButtonCommponents id="okButton" bgImageSource="" contentImageSource="" width="224"
+                           height="86" horizontalCenter="0.5" y="274" />
+</e:Skin>

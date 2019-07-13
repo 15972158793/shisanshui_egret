@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SPlayerInformationBaseSkin" width="93" height="95" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group id="playerInformationGroup" width="93" height="95">
+        <ns1:SSitDownButton bgImageSource="playerInformation_looks_bg_png" width="93" height="95" />
+    </e:Group>
+    <e:Image id="offlineImage" source="playerInformation_offline_mask_content_png" touchEnabled="false" width="59"
+             x="17" y="24" visible="false"/>
+</e:Skin>

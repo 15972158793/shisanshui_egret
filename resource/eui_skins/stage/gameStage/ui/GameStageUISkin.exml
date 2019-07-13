@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameStageUISkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*" xmlns:CWTFrameWork="CWTFrameWork.*">
+    <ns1:OptionBoxImageButton  contentImageSource="gameStage_option_button_png" width="86" height="88" x="20" y="21"/>
+    <ns1:SoundSetUpBoxImageButton contentImageSource="gameStage_soundSetUp_button_png" x="1094" y="21" width="86" height="88"/>
+    <ns1:TextChatImageButton contentImageSource="gameStage_textChat_button_png" x="1094" y="369" width="86" height="88"/>
+    <ns1:VoiceChatImageButton visible="false" contentImageSource="gameStage_voiceChat_button_png" x="1094" y="473" width="86" height="88"/>
+    <ns1:HistoryBoxImageButton contentImageSource="gameStage_historyBox_button_png" y="21" x="978" width="86" height="88"/>
+</e:Skin>

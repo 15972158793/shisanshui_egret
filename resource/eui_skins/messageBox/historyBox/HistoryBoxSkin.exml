@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HistoryBoxSkin" width="438" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="watchPlayerBox_bg_image_png"  x="0"/>
+    <e:Group width="438" height="50" y="57">
+      <ns1:LabelBase text="头像" y="9" x="27"/>
+      <ns1:LabelBase text="昵称" y="9" x="170"/>
+      <ns1:LabelBase text="成绩" y="9" x="313"/>
+      <e:Image source="watchPlayerBox_border_image_png" bottom="0"/>
+    </e:Group>
+    <e:RadioButton id="gameTypeRadioButton" width="193" height="56" value="0" selected="true">
+        <e:skinName>
+            <e:Skin states="up,down,disabled">
+                <e:Group width="193" height="56" />
+                <e:Image source="historyBox_button_png" visible.up="false" visible.down="true" />
+                <e:Image source.up="historyBox_lasted_unSelected_png" source.down="historyBox_lasted_selected_png"
+                         horizontalCenter="0" verticalCenter="0" />
+            </e:Skin>
+        </e:skinName>
+    </e:RadioButton>
+    <e:RadioButton width="193" height="56" x="193" value="1">
+        <e:skinName>
+            <e:Skin states="up,down,disabled">
+                <e:Group width="193" height="56" />
+                <e:Image source="historyBox_button_png" visible.up="false" visible.down="true" />
+                <e:Image source.up="historyBox_look_unSelected_png" source.down="historyBox_look_selected_png"
+                         horizontalCenter="0" verticalCenter="0" />
+            </e:Skin>
+        </e:skinName>
+    </e:RadioButton>
+    <e:ViewStack id="historyViewStack" width="383" height="600" y="108" anchorOffsetY="0" anchorOffsetX="0">
+        <e:Group width="383">
+            <e:Scroller width="383"  height="600" >
+                <e:List width="383" id="lastedList" >
+                    <e:layout>
+                        <e:TileLayout>
+                        </e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+        <e:Group width="383">
+            <e:Scroller width="383"  height="600" >
+                <e:List width="383" id="historyList" >
+                    <e:layout>
+                        <e:TileLayout>
+                        </e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+    </e:ViewStack>
+    <ns1:CloseButton id="closeButton" contentImageSource="watchPlayerBox_close_button_png" width="88" height="88"
+                     x="358" y="223" />
+      <e:Group id="touchedCloseGroup" width="200" height="750" x="292" y="0">
+      </e:Group>
+</e:Skin>

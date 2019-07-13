@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ButtonCommponentsSkin" width="100" height="100" xmlns:e="http://ns.egret.com/eui">
+    <e:Group id="imageGroup" touchEnabled="false">
+    <e:Image id="bgImage" width="100%" height="100%" touchEnabled="false"/>
+    <e:Image id="contentImage" horizontalCenter="0" verticalCenter="0" touchEnabled="false"/>
+    </e:Group>
+</e:Skin>

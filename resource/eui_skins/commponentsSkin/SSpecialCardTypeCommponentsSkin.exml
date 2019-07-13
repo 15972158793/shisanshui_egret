@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SSpecialCardTypeCommponentsSkin" width="1206" height="373" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="specialCardType_bg_png" scale9Grid="222,46,383,281" width="1206" height="373"/>
+    <e:Image id="animationImage" source="specialCardType_1_png" verticalCenter="-17" horizontalCenter="0"/>
+</e:Skin>

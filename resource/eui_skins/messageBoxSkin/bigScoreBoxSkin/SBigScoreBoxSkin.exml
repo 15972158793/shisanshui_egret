@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SBigScoreBoxSkin" width="931" height="586" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Image source="messageBox_b_bg_png" width="931" height="586" />
+    <e:Group width="931" height="82.27" y="10.04" anchorOffsetY="0">
+        <ns1:LabelCommponents text="统分" size="36" textColor="0xe0ced6" horizontalCenter="0" verticalCenter="0" />
+        <ns1:CloseButtonCommponents id="closeButton" contentImageSource="messageBox_close_button_png" x="809" width="88"
+                         height="88" y="-4.56" />
+    </e:Group>
+    <e:Group width="931" height="50" y="104">
+        <ns1:LabelCommponents text="十三水" size="30" verticalCenter="0" x="76" />
+        <ns1:LabelCommponents id="roomIDLabel"  size="30" verticalCenter="0" x="334" />
+        <ns1:LabelCommponents id="roomRoundLabel" size="30" verticalCenter="0" x="685.5" />
+        <e:Image source="bigScoreBox_border_png" bottom="0"/>
+    </e:Group>
+    <e:Scroller width="886" height="275" horizontalCenter="0.5" y="163" anchorOffsetX="0" anchorOffsetY="0">
+        <e:List id="singleBigScoreUtilList" anchorOffsetX="0" width="907" anchorOffsetY="0" height="289" x="0" y="80">
+            <e:layout>
+                <e:TileLayout horizontalGap="50" paddingLeft="50"></e:TileLayout>
+            </e:layout>
+        </e:List>
+    </e:Scroller>
+    <ns1:SNowBackHomeButton width="224" height="86" bgImageSource="button_blue_png" contentImageSource="button_bakcHome_png" x="117" y="448"/>
+    <ns1:HistoryShareBoxGroupButton width="224" height="86" bgImageSource="button_yellow2_png" contentImageSource="button_history_share_png" x="588" y="448"/>
+</e:Skin>

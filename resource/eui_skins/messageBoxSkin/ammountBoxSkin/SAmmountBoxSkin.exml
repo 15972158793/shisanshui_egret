@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SAmmountBoxSkin" width="471" height="1036" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="sRuleBox_content_bg_png"/>
+    <e:Image source="sRuleBox_title_bg_png"/>
+    <e:Image source="sAmmountbOX_title_content_png" horizontalCenter="0" y="22"/>
+
+</e:Skin>

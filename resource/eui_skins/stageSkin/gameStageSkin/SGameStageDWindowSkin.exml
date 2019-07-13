@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SGameStageDWindowSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:STextChatCommponents positionEnum="0" width="244" height="117"  y="423" x="233" alpha="0" touchEnabled="false"/>
+    <ns1:SRightTextChatCommponents positionEnum="1" width="244" height="117" x="840" y="111" alpha="0" touchEnabled="false" />
+    <ns1:STopTextChatCommponents positionEnum="2" width="244" height="117" x="520" y="134" alpha="0" touchEnabled="false" />
+    <ns1:STextChatCommponents positionEnum="3" width="244" height="117" y="108" x="123" alpha="0"  touchEnabled="false"/>
+    <ns1:SFaceChatCommponents width="100" height="100" positionEnum="0" x="136" y="520" touchEnabled="false" />
+    <ns1:SFaceChatCommponents width="100" height="100" positionEnum="1" x="1078" y="190"  touchEnabled="false"/>
+    <ns1:SFaceChatCommponents width="100" height="100" positionEnum="2" x="424" y="54" touchEnabled="false" />
+    <ns1:SFaceChatCommponents width="100" height="100" positionEnum="3" y="190" x="22"  touchEnabled="false" />
+</e:Skin>

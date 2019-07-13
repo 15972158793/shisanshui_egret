@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SRightShowCardListCommponentsSkin" width="600" height="360" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:CardListCommponents id="cardListCommponents" width="340" height="360" x="260"/>
+    <e:Group name="scoreGroup0" width="208" height="50" x="0" y="40">
+        <e:Image source="" name="cardTypeImage" verticalCenter="0" />
+        <e:BitmapLabel text="" font="" name="cardScoreBitmapLabel" x="100"  verticalCenter="0" letterSpacing="5"/>
+    </e:Group>
+    <e:Group name="scoreGroup1" width="208" height="50" x="0" y="150">
+        <e:Image source="" name="cardTypeImage"  verticalCenter="0"/>
+        <e:BitmapLabel text="" font="" name="cardScoreBitmapLabel" x="100"  verticalCenter="0" letterSpacing="5"/>
+    </e:Group>
+    <e:Group name="scoreGroup2" width="208" height="50" x="0" y="260">
+        <e:Image source="" name="cardTypeImage"  verticalCenter="0"/>
+        <e:BitmapLabel text="" font="" name="cardScoreBitmapLabel" x="100"  verticalCenter="0" letterSpacing="5"/>
+    </e:Group>
+</e:Skin>

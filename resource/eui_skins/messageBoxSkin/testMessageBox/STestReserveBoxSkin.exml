@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="STestReserveBoxSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:List id="fangKuaiCardList" width="750" height="300" scaleX="0.7" scaleY="0.7">
+        <e:layout>
+            <e:TileLayout requestedColumnCount="7" requestedRowCount="2">
+            </e:TileLayout>
+        </e:layout>
+    </e:List>
+    <e:List id="meihuaCardList" width="750" height="300" y="210" scaleX="0.7" scaleY="0.7">
+        <e:layout>
+            <e:TileLayout requestedColumnCount="7" requestedRowCount="2">
+            </e:TileLayout>
+        </e:layout>
+    </e:List>
+    <e:List id="hongTaoCardList" width="750" height="300" y="420" scaleX="0.7" scaleY="0.7">
+        <e:layout>
+            <e:TileLayout requestedColumnCount="7" requestedRowCount="2">
+            </e:TileLayout>
+        </e:layout>
+    </e:List>
+    <e:List id="heiTaoCardList" width="750" height="300" y="630" scaleX="0.7" scaleY="0.7">
+        <e:layout>
+            <e:TileLayout requestedColumnCount="7" requestedRowCount="2">
+            </e:TileLayout>
+        </e:layout>
+    </e:List>
+
+    <e:List id="selectCardList" width="750" height="300" y="900" scaleX="0.7" scaleY="0.7">
+        <e:layout>
+            <e:TileLayout requestedColumnCount="7" requestedRowCount="2">
+            </e:TileLayout>
+        </e:layout>
+    </e:List>
+ <ns1:ButtonCommponents id="resetButton"  contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="重置"  x="550" y="965"/>
+ <ns1:ButtonCommponents id="okButton"  contentImageSource="sButton_orange_bg_png" width="186" height="79" textLabelText="确定"  x="550" y="1075.5"/>
+</e:Skin>

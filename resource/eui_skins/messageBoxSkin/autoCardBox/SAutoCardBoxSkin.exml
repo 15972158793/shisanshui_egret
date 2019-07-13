@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SAutoCardBoxSkin" width="1206" height="750" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <e:Group y="20" height="147" x="0" width="1206">
+        <e:Image source="cardBox_threeCard_bg_png" x="86" y="0"/>
+    </e:Group>
+    <e:Group y="164" height="147" x="0" width="1206">
+        <e:Image source="cardBox_fiveCard_bg_png" x="0" y="0"/>
+    </e:Group>
+    <e:Group y="310" height="147" x="0" width="1206" touchEnabled="false">
+        <e:Image source="cardBox_fiveCard_bg_png" x="0" y="0"/>
+    </e:Group>
+    <e:Group id="cardGroup" width="1206" height="750">
+        <e:Group name="putCardGroup0_0" width="109" height="148" x="149" y="35" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup0_1" width="109" height="148" x="254" y="35" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup0_2" width="109" height="148" x="359" y="35" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup1_0" width="109" height="148" x="51" y="179" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup1_1" width="109" height="148" x="154" y="179" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup1_2" width="109" height="148" x="256" y="179" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup1_3" width="109" height="148" x="359" y="179" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup1_4" width="109" height="148" x="461" y="179" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup2_0" width="109" height="148" x="51" y="325" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup2_1" width="109" height="148" x="154" y="325" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup2_2" width="109" height="148" x="256" y="325" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup2_3" width="109" height="148" x="359" y="325" scaleX="0.8" scaleY="0.8" />
+        <e:Group name="putCardGroup2_4" width="109" height="148" x="461" y="325" scaleX="0.8" scaleY="0.8" />
+        <e:Group width="566" height="466" x="612" y="20">
+            <e:Image source="messageBox_b_bg_png" width="566" height="466" />
+            <e:Scroller width="566" height="466">
+                <e:List id="cardTypeList">
+                    <e:layout >
+                        <e:TileLayout paddingLeft="50" paddingTop="100" requestedColumnCount="3" requestedRowCount="1"></e:TileLayout>
+                    </e:layout>
+                </e:List>
+            </e:Scroller>
+        </e:Group>
+    </e:Group>
+    <ns1:Time2Commponents id="time2Commponents" width="168" height="85" y="514" x="12"/>   
+     <e:Image id="reserveImage" source="" alpha="0" horizontalCenter="0.5" verticalCenter="-140" touchEnabled="false"/>
+        <e:Image source="autoCardBox_showCardType_image_png" y="506" horizontalCenter="14"/>
+    <ns1:ButtonCommponents id="putCompleteGroupButton" width="224" height="86" y="638" bgImageSource="button_yellow3_png"
+                           contentImageSource="autoCardBox_putComplete_button_png"  horizontalCenter="0"/>
+</e:Skin>

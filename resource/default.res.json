@@ -1,0 +1,628 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,ConfigUtil_json,ServerConfigUtil_json,GameConfigUtil_json,autoCardBox_putComplete_button_png,autoCardBox_selectCardList_itemRenderer_png,autoCardBox_selectCardList_left_png,autoCardBox_selectCardList_right_png,autoCardBox_selectCardList_selected_image_png,autoCardBox_showCardType_image_png,特效01_png,特效02_png,特效03_png,特效04_png,特效05_png,特效06_png,特效07_png,特效08_png,boxAssets_json,boxOtherAssets_json,buttonAssets_json,cardAssets_json,cardBoxAssets_json,cardTypeAssets_json,faceChat_ske_json,faceChat_tex_json,faceChat_tex_png,faceChatAssets_json,gameStage_bg_jpg,gameStage_roomInfo_bg_png,gameStageAssets_json,gameStart_ske_json,gameStart_tex_json,gameStart_tex_png,guns_image_png,hongbolang_ske_json,hongbolang_tex_json,hongbolang_tex_png,messageBox_b_bg_png,messageBox_small_bg_png,playerLooks_invite_image_png,shotHole_image_png,sitDown_image_png,testLoginStage_login_button2_png,loseFnt_png,loseFnt_fnt,winFnt_png,winFnt_fnt,bg_mp3,click_mp3,flop_mp3,lose_mp3,ping_mp3,shot_mp3,textChat_txt,time_mp3,win_mp3,man_1_mp3,man_2_mp3,man_21_mp3,man_22_mp3,man_23_mp3,man_24_mp3,man_25_mp3,man_26_mp3,man_27_mp3,man_28_mp3,man_29_mp3,man_3_mp3,man_30_mp3,man_31_mp3,man_32_mp3,man_33_mp3,man_4_mp3,man_5_mp3,man_6_mp3,man_7_mp3,man_8_mp3,man_9_mp3,man_daqiang_mp3,man_quanleida_mp3,man_chat0_mp3,man_chat1_mp3,man_chat2_mp3,man_chat3_mp3,man_chat4_mp3,man_chat5_mp3,woman_1_mp3,woman_2_mp3,woman_21_mp3,woman_22_mp3,woman_23_mp3,woman_24_mp3,woman_25_mp3,woman_26_mp3,woman_27_mp3,woman_28_mp3,woman_29_mp3,woman_3_mp3,woman_30_mp3,woman_31_mp3,woman_32_mp3,woman_33_mp3,woman_4_mp3,woman_5_mp3,woman_6_mp3,woman_7_mp3,woman_8_mp3,woman_9_mp3,woman_daqiang_mp3,woman_quanleida_mp3,woman_chat0_mp3,woman_chat1_mp3,woman_chat2_mp3,woman_chat3_mp3,woman_chat4_mp3,woman_chat5_mp3,specialCardType_bg_png,specialCardTypeAssets_json,sButton_start_content_png",
+			"name": "preload"
+		},
+		{
+			"keys": "testLoginStage_login_button_png",
+			"name": "otherAssets"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "config/ConfigUtil.json",
+			"type": "json",
+			"name": "ConfigUtil_json"
+		},
+		{
+			"url": "config/ServerConfigUtil.json",
+			"type": "json",
+			"name": "ServerConfigUtil_json"
+		},
+		{
+			"url": "config/GameConfigUtil.json",
+			"type": "json",
+			"name": "GameConfigUtil_json"
+		},
+		{
+			"url": "assets/testAssets/testLoginStage_login_button.png",
+			"type": "image",
+			"name": "testLoginStage_login_button_png"
+		},
+		{
+			"name": "autoCardBox_putComplete_button_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_putComplete_button.png"
+		},
+		{
+			"name": "autoCardBox_selectCardList_itemRenderer_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_selectCardList_itemRenderer.png"
+		},
+		{
+			"name": "autoCardBox_selectCardList_left_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_selectCardList_left.png"
+		},
+		{
+			"name": "autoCardBox_selectCardList_right_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_selectCardList_right.png"
+		},
+		{
+			"name": "autoCardBox_selectCardList_selected_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_selectCardList_selected_image.png"
+		},
+		{
+			"name": "autoCardBox_showCardType_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/autoCardBox_showCardType_image.png"
+		},
+		{
+			"name": "特效01_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效01.png"
+		},
+		{
+			"name": "特效02_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效02.png"
+		},
+		{
+			"name": "特效03_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效03.png"
+		},
+		{
+			"name": "特效04_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效04.png"
+		},
+		{
+			"name": "特效05_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效05.png"
+		},
+		{
+			"name": "特效06_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效06.png"
+		},
+		{
+			"name": "特效07_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效07.png"
+		},
+		{
+			"name": "特效08_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/autoCardBox/特效08.png"
+		},
+		{
+			"name": "boxAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/boxAssets.json",
+			"subkeys": "optionBox_share_button_png,historyBox_lasted_unSelected_png,bigScoreBox_border_png,optionBox_watchPlayer_button_png,optionBox_bg_image_png,noticeCBox_cancel_image_png,optionBox_standUp_button_png,historyBox_look_selected_png,historyBox_button_png,scoreBox_win_image_png,optionBox_border_image_png,optionBox_dismissRoom_button_png,scoreBox_hat_image_png,optionBox_gameRule_button_png,scoreBoxItemRenderer_bg_png,scoreBoxItemRenderer_win_bg_png,historyBox_look_unSelected_png,noticeCBox_ok_image_png,optionBox_gameTop_button_png,optionBox_backHome_button_png,historyBox_lasted_selected_png,soundSetUpBox_off_bg_png,soundSetUpBox_on_bg_png,watchPlayerBox_bg_image_png,watchPlayerBox_border_image_png,watchPlayerBox_close_button_png,watchPlayerBox_title_png,watchPlayerBox_title_bg_png"
+		},
+		{
+			"name": "boxOtherAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/boxOtherAssets.json",
+			"subkeys": "shareBox_image_png,shareBox_totalScore_image_png,top_gameBox_arrow_png,top_gameBox_image_png,ruleBox_fill_image_png,ruleBox_image_png"
+		},
+		{
+			"name": "buttonAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/buttonAssets.json",
+			"subkeys": "messageBox_close_button_png,button_agree_png,button_bakcHome_png,button_black_png,button_blue_png,button_blue2_png,button_cancel_png,button_history_share_png,button_ok_png,button_red_png,button_refuse_png,button_yellow_png,button_yellow2_png,button_yellow3_png,cotinue_image_png"
+		},
+		{
+			"name": "cardAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/cardAssets.json",
+			"subkeys": "card_hong_11_png,card_hong_12_png,card_hong_13_png,card_hong_14_png,cardColor_fang_png,cardColor_fang_small_png,cardColor_hei_png,cardColor_hei_small_png,cardColor_hong_png,cardColor_hong_small_png,cardColor_mei_png,cardColor_mei_small_png,fang_image_11_png,fang_image_12_png,fang_image_13_png,hei_image_11_png,hei_image_12_png,hei_image_13_png,hong_image_11_png,hong_image_12_png,hong_image_13_png,mei_image_11_png,mei_image_12_png,mei_image_13_png,红j_png,card_back_bg_png,card_bg_png,card_hei_2_png,card_hei_3_png,card_hei_4_png,card_hei_5_png,card_hei_6_png,card_hei_7_png,card_hei_8_png,card_hei_9_png,card_hei_10_png,card_hei_11_png,card_hei_12_png,card_hei_13_png,card_hei_14_png,card_hong_2_png,card_hong_3_png,card_hong_4_png,card_hong_5_png,card_hong_6_png,card_hong_7_png,card_hong_8_png,card_hong_9_png,card_hong_10_png"
+		},
+		{
+			"name": "cardBoxAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/cardBoxAssets.json",
+			"subkeys": "put_complete_png,cardBox_fiveCard_bg_png,button_yellow4_png,cardBox_return_button_png,reserverImage_12_png,cardBox_before_title_png,duizi_image_png,cardBox_after_title_png,cardBox_center_title_png,wulong_image_png,cardBox_threeCard_bg_png,reserverImage_23_png,hulu_image_png,zhadan_image_png,liangdui_image_png,reserverImage_13_png,tonghua_image_png,shunzi_image_png,santiao_image_png,tonghuashun_image_png,time2Commponents_bg_png,time2Commponents_fill_png,timeCommponents_progress_bg_png,timeCommponents_progressing_image_png"
+		},
+		{
+			"name": "cardTypeAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/cardTypeAssets.json",
+			"subkeys": "cardType_image_3_png,cardType_image_4_png,cardType_image_5_png,cardType_image_6_png,cardType_image_7_png,cardType_image_8_png,cardType_image_9_png,cardType_image_1_png,cardType_image_2_png"
+		},
+		{
+			"name": "faceChat_ske_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/faceChat_ske.json"
+		},
+		{
+			"name": "faceChat_tex_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/faceChat_tex.json"
+		},
+		{
+			"name": "faceChat_tex_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/faceChat_tex.png"
+		},
+		{
+			"name": "faceChatAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/faceChatAssets.json",
+			"subkeys": "chatBox_expression4_png,chatBox_expression5_png,chatBox_expression6_png,chatBox_expression7_png,chatBox_expression8_png,chatBox_expression9_png,chatBox_expression10_png,chatBox_expression11_png,chatBox_expression12_png,chatBox_expression13_png,chatBox_expression14_png,chatBox_expression15_png,chatBox_expression16_png,chatBox_expression17_png,chatBox_expression18_png,chatBox_expression19_png,chatBox_expression20_png,chatBox_expression1_png,chatBox_expression2_png,chatBox_expression3_png,chatBox_textChat_title_selected_png,chatBox_textChat_title_unSelected_png,chatBox_textChat_top_png,chatBox_faceChat_title_selected_png,chatBox_faceChat_title_unSelected_png,chatBox_left_selected_png,chatBox_right_selected_png,chatBox_textChat_bottom_png,chatBox_textChat_itemRender_png,chatBox_textChat_right_png"
+		},
+		{
+			"name": "gameStage_bg_jpg",
+			"type": "image",
+			"url": "assets/gameStageAssets/gameStage_bg.jpg"
+		},
+		{
+			"name": "gameStage_roomInfo_bg_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/gameStage_roomInfo_bg.png"
+		},
+		{
+			"name": "gameStageAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/gameStageAssets.json",
+			"subkeys": "playerInformation_looks_bg_png,button_yellow5_png,readyButton_cancel_ready_image_png,playerInformation_mask_bg_png,readyButton_ready_image_png,ready_image_png,gameStage_textChat_button_png,playerInformation_score_bg_png,gameStage_option_button_png,gameStage_historyBox_button_png,gameStage_desc_bg_png,button_blue3_png,shareButton_share_image_png,gameStage_soundSetUp_button_png,gameStage_voiceChat_button_png,gameStartButton_start_image_png,standUp_image_png,playerInformation_offline_mask_bg_png,playerInformation_offline_mask_content_png"
+		},
+		{
+			"name": "gameStart_ske_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/gameStart_ske.json"
+		},
+		{
+			"name": "gameStart_tex_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/gameStart_tex.json"
+		},
+		{
+			"name": "gameStart_tex_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/gameStart_tex.png"
+		},
+		{
+			"name": "guns_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/guns_image.png"
+		},
+		{
+			"name": "hongbolang_ske_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/hongbolang_ske.json"
+		},
+		{
+			"name": "hongbolang_tex_json",
+			"type": "json",
+			"url": "assets/gameStageAssets/hongbolang_tex.json"
+		},
+		{
+			"name": "hongbolang_tex_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/hongbolang_tex.png"
+		},
+		{
+			"name": "messageBox_b_bg_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/messageBox_b_bg.png"
+		},
+		{
+			"name": "messageBox_small_bg_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/messageBox_small_bg.png"
+		},
+		{
+			"name": "playerLooks_invite_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/playerLooks_invite_image.png"
+		},
+		{
+			"name": "shotHole_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/shotHole_image.png"
+		},
+		{
+			"name": "sitDown_image_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/sitDown_image.png"
+		},
+		{
+			"name": "testLoginStage_login_button2_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/testLoginStage_login_button.png"
+		},
+		{
+			"name": "loseFnt_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/loseFnt.png"
+		},
+		{
+			"name": "loseFnt_fnt",
+			"type": "font",
+			"url": "assets/gameStageAssets/loseFnt.fnt"
+		},
+		{
+			"name": "winFnt_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/winFnt.png"
+		},
+		{
+			"name": "winFnt_fnt",
+			"type": "font",
+			"url": "assets/gameStageAssets/winFnt.fnt"
+		},
+		{
+			"name": "bg_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/bg.mp3"
+		},
+		{
+			"name": "click_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/click.mp3"
+		},
+		{
+			"name": "flop_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/flop.mp3"
+		},
+		{
+			"name": "lose_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/lose.mp3"
+		},
+		{
+			"name": "ping_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/ping.mp3"
+		},
+		{
+			"name": "shot_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/shot.mp3"
+		},
+		{
+			"name": "textChat_txt",
+			"type": "text",
+			"url": "assets/gameStageAssets/sound/textChat.txt"
+		},
+		{
+			"name": "time_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/time.mp3"
+		},
+		{
+			"name": "win_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/win.mp3"
+		},
+		{
+			"name": "man_1_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_1.mp3"
+		},
+		{
+			"name": "man_2_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_2.mp3"
+		},
+		{
+			"name": "man_21_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_21.mp3"
+		},
+		{
+			"name": "man_22_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_22.mp3"
+		},
+		{
+			"name": "man_23_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_23.mp3"
+		},
+		{
+			"name": "man_24_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_24.mp3"
+		},
+		{
+			"name": "man_25_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_25.mp3"
+		},
+		{
+			"name": "man_26_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_26.mp3"
+		},
+		{
+			"name": "man_27_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_27.mp3"
+		},
+		{
+			"name": "man_28_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_28.mp3"
+		},
+		{
+			"name": "man_29_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_29.mp3"
+		},
+		{
+			"name": "man_3_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_3.mp3"
+		},
+		{
+			"name": "man_30_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_30.mp3"
+		},
+		{
+			"name": "man_31_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_31.mp3"
+		},
+		{
+			"name": "man_32_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_32.mp3"
+		},
+		{
+			"name": "man_33_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_33.mp3"
+		},
+		{
+			"name": "man_4_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_4.mp3"
+		},
+		{
+			"name": "man_5_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_5.mp3"
+		},
+		{
+			"name": "man_6_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_6.mp3"
+		},
+		{
+			"name": "man_7_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_7.mp3"
+		},
+		{
+			"name": "man_8_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_8.mp3"
+		},
+		{
+			"name": "man_9_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_9.mp3"
+		},
+		{
+			"name": "man_daqiang_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_daqiang.mp3"
+		},
+		{
+			"name": "man_quanleida_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/man/man_quanleida.mp3"
+		},
+		{
+			"name": "man_chat0_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat0.mp3"
+		},
+		{
+			"name": "man_chat1_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat1.mp3"
+		},
+		{
+			"name": "man_chat2_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat2.mp3"
+		},
+		{
+			"name": "man_chat3_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat3.mp3"
+		},
+		{
+			"name": "man_chat4_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat4.mp3"
+		},
+		{
+			"name": "man_chat5_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/manchat/man_chat5.mp3"
+		},
+		{
+			"name": "woman_1_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_1.mp3"
+		},
+		{
+			"name": "woman_2_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_2.mp3"
+		},
+		{
+			"name": "woman_21_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_21.mp3"
+		},
+		{
+			"name": "woman_22_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_22.mp3"
+		},
+		{
+			"name": "woman_23_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_23.mp3"
+		},
+		{
+			"name": "woman_24_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_24.mp3"
+		},
+		{
+			"name": "woman_25_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_25.mp3"
+		},
+		{
+			"name": "woman_26_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_26.mp3"
+		},
+		{
+			"name": "woman_27_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_27.mp3"
+		},
+		{
+			"name": "woman_28_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_28.mp3"
+		},
+		{
+			"name": "woman_29_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_29.mp3"
+		},
+		{
+			"name": "woman_3_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_3.mp3"
+		},
+		{
+			"name": "woman_30_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_30.mp3"
+		},
+		{
+			"name": "woman_31_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_31.mp3"
+		},
+		{
+			"name": "woman_32_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_32.mp3"
+		},
+		{
+			"name": "woman_33_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_33.mp3"
+		},
+		{
+			"name": "woman_4_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_4.mp3"
+		},
+		{
+			"name": "woman_5_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_5.mp3"
+		},
+		{
+			"name": "woman_6_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_6.mp3"
+		},
+		{
+			"name": "woman_7_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_7.mp3"
+		},
+		{
+			"name": "woman_8_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_8.mp3"
+		},
+		{
+			"name": "woman_9_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_9.mp3"
+		},
+		{
+			"name": "woman_daqiang_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_daqiang.mp3"
+		},
+		{
+			"name": "woman_quanleida_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/woman/woman_quanleida.mp3"
+		},
+		{
+			"name": "woman_chat0_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat0.mp3"
+		},
+		{
+			"name": "woman_chat1_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat1.mp3"
+		},
+		{
+			"name": "woman_chat2_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat2.mp3"
+		},
+		{
+			"name": "woman_chat3_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat3.mp3"
+		},
+		{
+			"name": "woman_chat4_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat4.mp3"
+		},
+		{
+			"name": "woman_chat5_mp3",
+			"type": "sound",
+			"url": "assets/gameStageAssets/sound/womanchat/woman_chat5.mp3"
+		},
+		{
+			"name": "specialCardType_bg_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/specialCardType_bg.png"
+		},
+		{
+			"name": "specialCardTypeAssets_json",
+			"type": "sheet",
+			"url": "assets/gameStageAssets/specialCardTypeAssets.json",
+			"subkeys": "specialCardType_22_png,specialCardType_21_png,specialCardType_23_png,specialCardType_24_png,specialCardType_25_png,specialCardType_26_png,specialCardType_27_png,specialCardType_28_png,specialCardType_29_png,specialCardType_30_png,specialCardType_31_png,specialCardType_32_png,specialCardType_33_png"
+		},
+		{
+			"name": "sButton_start_content_png",
+			"type": "image",
+			"url": "assets/gameStageAssets/sButton_start_content.png"
+		}
+	]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SPlayerInformationBSkin" width="93" height="196" xmlns:e="http://ns.egret.com/eui" xmlns:ns1="*">
+    <ns1:SPlayerInformationButton id="playerInformationButton"  width="93" height="95" contentImageSource="" maskImageSource="playerInformation_mask_bg_png" y="0"/>
+    <ns1:LabelCommponents id="nickNameLabel"  size="24" width="150" height="30" text="我是王老五" textAlign="center" verticalAlign="middle" x="-28" y="97"/>
+    <e:Group width="127" height="69" x="-25" y="127">
+        <e:Image source="playerInformation_score_bg_png"/>
+        <ns1:LabelCommponents id="currencyLabel" text="1" horizontalCenter="20" verticalCenter="-13" height="24" size="24"/>
+    </e:Group>
+</e:Skin>

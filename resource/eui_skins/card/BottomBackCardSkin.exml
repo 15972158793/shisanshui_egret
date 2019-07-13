@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BottomBackCardSkin" width="109" height="147" xmlns:e="http://ns.egret.com/eui">
+    <e:Image source="card_back_bg_png" width="109" height="147" touchEnabled="false"/>
+</e:Skin>
